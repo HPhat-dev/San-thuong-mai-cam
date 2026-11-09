@@ -1,0 +1,3323 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f89e"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f88c"
+      },
+      "tenSanPham": "Điện thoại thông minh Nova 128GB",
+      "giaSanPham": 5990000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f892"
+      },
+      "tenSanPham": "Ốp lưng chống sốc",
+      "giaSanPham": 90000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 6080000,
+  "diaChiNhanHang": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000001",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-23T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f89f"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f893"
+      },
+      "tenSanPham": "Áo thun cotton basic",
+      "giaSanPham": 150000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f894"
+      },
+      "tenSanPham": "Quần jean nam slim",
+      "giaSanPham": 380000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 680000,
+  "diaChiNhanHang": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000001",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-01T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a0"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f88e"
+      },
+      "tenSanPham": "Laptop văn phòng Slim 14 inch",
+      "giaSanPham": 12900000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 12900000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-08T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a1"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f897"
+      },
+      "tenSanPham": "Nồi chiên không dầu 5L",
+      "giaSanPham": 1350000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1350000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-10-10T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a2"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f890"
+      },
+      "tenSanPham": "Tai nghe Bluetooth Air",
+      "giaSanPham": 450000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f891"
+      },
+      "tenSanPham": "Sạc nhanh 30W",
+      "giaSanPham": 220000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 670000,
+  "diaChiNhanHang": "78 Hai Bà Trưng, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000003",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-10-11T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a3"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f895"
+      },
+      "tenSanPham": "Váy midi hoa nhí",
+      "giaSanPham": 290000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 290000,
+  "diaChiNhanHang": "78 Hai Bà Trưng, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000003",
+  "trangThaiDH": "choxacnhan",
+  "ngayDat": {
+    "$date": "2026-10-12T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a4"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f883"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f899"
+      },
+      "tenSanPham": "Bộ chăn ga gối cotton",
+      "giaSanPham": 690000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 690000,
+  "diaChiNhanHang": "9 Võ Văn Ngân, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000004",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-10-05T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a5"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f883"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f88d"
+      },
+      "tenSanPham": "Điện thoại thông minh Nova Pro 256GB",
+      "giaSanPham": 9490000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 9490000,
+  "diaChiNhanHang": "9 Võ Văn Ngân, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000004",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-24T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a6"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f898"
+      },
+      "tenSanPham": "Bình đun siêu tốc 1.8L",
+      "giaSanPham": 250000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 250000,
+  "diaChiNhanHang": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000001",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-07T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a7"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f896"
+      },
+      "tenSanPham": "Giày thể thao nhẹ",
+      "giaSanPham": 520000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 520000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "trangThaiDH": "choxacnhan",
+  "ngayDat": {
+    "$date": "2026-10-13T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b7"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a40e2905d2f9b7e41000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000059"
+      },
+      "tenSanPham": "Bộ hộp đựng thực phẩm thủy tinh 6 món",
+      "giaSanPham": 360000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 360000,
+  "diaChiNhanHang": "33 Lý Thường Kiệt, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000008",
+  "tenNguoiNhan": "Ngô Đức Thịnh",
+  "emailNhanHang": "nguoimua8@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-14T07:41:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300007d"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300002a"
+      },
+      "tenSanPham": "Bóng rổ da số 7",
+      "giaSanPham": 350000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000030"
+      },
+      "tenSanPham": "Bóng đá số 5 da PU",
+      "giaSanPham": 270000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000002c"
+      },
+      "tenSanPham": "Găng tay tập gym chống trượt",
+      "giaSanPham": 120000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 740000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "tenNguoiNhan": "Võ Quốc Bảo",
+  "emailNhanHang": "nguoimua2@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-15T15:02:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d4"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ab6907a1c3e5d90000017"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000020"
+      },
+      "tenSanPham": "Thiết kế cơ sở dữ liệu thực hành",
+      "giaSanPham": 168000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 336000,
+  "diaChiNhanHang": "42 Bạch Đằng, Quận Bình Thạnh, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000013",
+  "tenNguoiNhan": "Lê Hồng Nhung",
+  "emailNhanHang": "nguoimua13@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-18T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c1"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300003a"
+      },
+      "tenSanPham": "Bàn di chuột cỡ lớn 80x30cm",
+      "giaSanPham": 120000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300000b"
+      },
+      "tenSanPham": "Cáp sạc Lightning 1m MFi",
+      "giaSanPham": 99000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003a"
+      },
+      "tenSanPham": "Thẻ nhớ microSD 128GB",
+      "giaSanPham": 190000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 529000,
+  "diaChiNhanHang": "230 Lũy Bán Bích, Quận Tân Phú, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000016",
+  "tenNguoiNhan": "Phạm Đức Anh",
+  "emailNhanHang": "nguoimua16@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-19T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000cf"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000050"
+      },
+      "tenSanPham": "Hub chuyển đổi USB-C 6 trong 1",
+      "giaSanPham": 450000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 450000,
+  "diaChiNhanHang": "27 Trần Hưng Đạo, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000005",
+  "tenNguoiNhan": "Lê Thị Hoa",
+  "emailNhanHang": "nguoimua5@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-20T21:38:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000095"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300000b"
+      },
+      "tenSanPham": "Cáp sạc Lightning 1m MFi",
+      "giaSanPham": 99000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001d"
+      },
+      "tenSanPham": "Ổ cắm điện thông minh Wi-Fi",
+      "giaSanPham": 180000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000014"
+      },
+      "tenSanPham": "Chuột gaming có dây 7 nút",
+      "giaSanPham": 250000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 878000,
+  "diaChiNhanHang": "14 Hoàng Văn Thụ, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000017",
+  "tenNguoiNhan": "Cao Mỹ Linh",
+  "emailNhanHang": "nguoimua17@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-21T11:10:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000106"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ad096109c4e2a6f13000007"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000019"
+      },
+      "tenSanPham": "Chảo chống dính 28cm",
+      "giaSanPham": 260000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e4100001c"
+      },
+      "tenSanPham": "Máy xay sinh tố đa năng",
+      "giaSanPham": 690000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1640000,
+  "diaChiNhanHang": "18 Cộng Hòa, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000025",
+  "tenNguoiNhan": "Hồ Quốc Cường",
+  "emailNhanHang": "nguoimua25@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-21T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000cd"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ab6907a1c3e5d90000017"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000037"
+      },
+      "tenSanPham": "Nước tẩy trang 300ml",
+      "giaSanPham": 160000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 160000,
+  "diaChiNhanHang": "42 Bạch Đằng, Quận Bình Thạnh, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000013",
+  "tenNguoiNhan": "Lê Hồng Nhung",
+  "emailNhanHang": "nguoimua13@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-22T12:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b2"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a4234105d2f9b7e41000005"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000035"
+      },
+      "tenSanPham": "Thảm chơi xốp gấp gọn 1m8",
+      "giaSanPham": 390000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 390000,
+  "diaChiNhanHang": "18 Phan Xích Long, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000009",
+  "tenNguoiNhan": "Trương Ngọc Diệp",
+  "emailNhanHang": "nguoimua9@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-22T15:36:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300008a"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3e3f905d2f9b7e41000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000039"
+      },
+      "tenSanPham": "Giá đỡ điện thoại để bàn xoay 360°",
+      "giaSanPham": 79000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 79000,
+  "diaChiNhanHang": "201 Nguyễn Văn Linh, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000006",
+  "tenNguoiNhan": "Phạm Quốc Bảo",
+  "emailNhanHang": "nguoimua6@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-23T15:28:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300004d"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ad1e7909c4e2a6f13000008"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000029"
+      },
+      "tenSanPham": "Bộ chổi và hốt rác gấp gọn",
+      "giaSanPham": 95000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300000e"
+      },
+      "tenSanPham": "Máy xay thịt mini 2L",
+      "giaSanPham": 480000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1150000,
+  "diaChiNhanHang": "5 Nguyễn Trãi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000026",
+  "tenNguoiNhan": "Lương Bảo Trân",
+  "emailNhanHang": "nguoimua26@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-25T18:47:00.000Z"
+  },
+  "ghiChu": "Gọi trước khi giao"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000070"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000048"
+      },
+      "tenSanPham": "Loa Bluetooth Bass Max M2",
+      "giaSanPham": 890000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000004b"
+      },
+      "tenSanPham": "Loa kéo karaoke mini K8",
+      "giaSanPham": 1290000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300002e"
+      },
+      "tenSanPham": "Tai nghe chụp tai không dây Studio S9",
+      "giaSanPham": 1190000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 3370000,
+  "diaChiNhanHang": "63 Kha Vạn Cân, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000024",
+  "tenNguoiNhan": "Đặng Mai Phương",
+  "emailNhanHang": "nguoimua24@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-26T09:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300008f"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000054"
+      },
+      "tenSanPham": "Sữa rửa mặt dịu nhẹ 150ml",
+      "giaSanPham": 135000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 135000,
+  "diaChiNhanHang": "112 Điện Biên Phủ, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000019",
+  "tenNguoiNhan": "Nguyễn Hữu Phước",
+  "emailNhanHang": "nguoimua19@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-26T09:31:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f0"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8d59907a1c3e5d90000019"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001e"
+      },
+      "tenSanPham": "Bộ sách vải cho bé 6 cuốn",
+      "giaSanPham": 180000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 360000,
+  "diaChiNhanHang": "61 Âu Cơ, Quận Tân Phú, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000015",
+  "tenNguoiNhan": "Đinh Thảo Vy",
+  "emailNhanHang": "nguoimua15@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-27T07:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f3"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000040"
+      },
+      "tenSanPham": "Bình nước thể thao 1L nắp bật",
+      "giaSanPham": 130000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 260000,
+  "diaChiNhanHang": "301 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000022",
+  "tenNguoiNhan": "Phạm Ngọc Hân",
+  "emailNhanHang": "nguoimua22@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-08-31T19:22:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000045"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000027"
+      },
+      "tenSanPham": "Cấu trúc dữ liệu và giải thuật qua ví dụ",
+      "giaSanPham": 185000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000023"
+      },
+      "tenSanPham": "Truyện ngắn chọn lọc: Mùa hè năm ấy",
+      "giaSanPham": 79000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000020"
+      },
+      "tenSanPham": "Thiết kế cơ sở dữ liệu thực hành",
+      "giaSanPham": 168000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 617000,
+  "diaChiNhanHang": "27 Trần Hưng Đạo, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000005",
+  "tenNguoiNhan": "Lê Thị Hoa",
+  "emailNhanHang": "nguoimua5@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-09-01T11:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000af"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a4385905d2f9b7e41000006"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000021"
+      },
+      "tenSanPham": "Xe tập đi cho bé có nhạc",
+      "giaSanPham": 450000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 450000,
+  "diaChiNhanHang": "120 Quang Trung, Quận Gò Vấp, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000010",
+  "tenNguoiNhan": "Huỳnh Minh Khoa",
+  "emailNhanHang": "nguoimua10@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-02T11:52:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300005f"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8d59907a1c3e5d90000019"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000019"
+      },
+      "tenSanPham": "Chảo chống dính 28cm",
+      "giaSanPham": 260000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 260000,
+  "diaChiNhanHang": "61 Âu Cơ, Quận Tân Phú, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000015",
+  "tenNguoiNhan": "Đinh Thảo Vy",
+  "emailNhanHang": "nguoimua15@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-03T07:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000081"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000043"
+      },
+      "tenSanPham": "Tiếng Anh cho lập trình viên",
+      "giaSanPham": 110000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 220000,
+  "diaChiNhanHang": "230 Lũy Bán Bích, Quận Tân Phú, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000016",
+  "tenNguoiNhan": "Phạm Đức Anh",
+  "emailNhanHang": "nguoimua16@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-03T11:52:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300005c"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a4234105d2f9b7e41000005"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000023"
+      },
+      "tenSanPham": "Tai nghe có dây Basic",
+      "giaSanPham": 99000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f88c"
+      },
+      "tenSanPham": "Điện thoại thông minh Nova 128GB",
+      "giaSanPham": 5990000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 6089000,
+  "diaChiNhanHang": "18 Phan Xích Long, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000009",
+  "tenNguoiNhan": "Trương Ngọc Diệp",
+  "emailNhanHang": "nguoimua9@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-05T17:30:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000084"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000027"
+      },
+      "tenSanPham": "Giày sandal nam quai chéo",
+      "giaSanPham": 330000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003d"
+      },
+      "tenSanPham": "Quần short thể thao nam",
+      "giaSanPham": 170000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 830000,
+  "diaChiNhanHang": "63 Kha Vạn Cân, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000024",
+  "tenNguoiNhan": "Đặng Mai Phương",
+  "emailNhanHang": "nguoimua24@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-07T14:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000075"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000040"
+      },
+      "tenSanPham": "Bình nước thể thao 1L nắp bật",
+      "giaSanPham": 130000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000004a"
+      },
+      "tenSanPham": "Bình lắc protein 700ml",
+      "giaSanPham": 99000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003b"
+      },
+      "tenSanPham": "Tạ tay bọc cao su 3kg (cặp)",
+      "giaSanPham": 290000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 748000,
+  "diaChiNhanHang": "14 Hoàng Văn Thụ, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000017",
+  "tenNguoiNhan": "Cao Mỹ Linh",
+  "emailNhanHang": "nguoimua17@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-07T19:25:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d6"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8813907a1c3e5d90000015"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000026"
+      },
+      "tenSanPham": "Tai nghe Bluetooth không dây X200",
+      "giaSanPham": 490000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000018"
+      },
+      "tenSanPham": "Điện thoại Star X1 Pro 512GB",
+      "giaSanPham": 14490000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 15470000,
+  "diaChiNhanHang": "15 Nguyễn Đình Chiểu, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000011",
+  "tenNguoiNhan": "Nguyễn Thị Thanh Tâm",
+  "emailNhanHang": "nguoimua11@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-11T13:14:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300010c"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000034"
+      },
+      "tenSanPham": "Dây kháng lực tập mông 3 mức",
+      "giaSanPham": 99000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 99000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "tenNguoiNhan": "Võ Quốc Bảo",
+  "emailNhanHang": "nguoimua2@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-12T07:00:00.000Z"
+  },
+  "ghiChu": "Gọi trước khi giao"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000102"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8c08107a1c3e5d90000018"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000034"
+      },
+      "tenSanPham": "Dây kháng lực tập mông 3 mức",
+      "giaSanPham": 99000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000002c"
+      },
+      "tenSanPham": "Găng tay tập gym chống trượt",
+      "giaSanPham": 120000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003e"
+      },
+      "tenSanPham": "Dây nhảy thể dục đếm số",
+      "giaSanPham": 85000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 304000,
+  "diaChiNhanHang": "9 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000014",
+  "tenNguoiNhan": "Vương Gia Khang",
+  "emailNhanHang": "nguoimua14@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-09-12T17:45:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300004b"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ab6907a1c3e5d90000017"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300000b"
+      },
+      "tenSanPham": "Cáp sạc Lightning 1m MFi",
+      "giaSanPham": 99000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 99000,
+  "diaChiNhanHang": "42 Bạch Đằng, Quận Bình Thạnh, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000013",
+  "tenNguoiNhan": "Lê Hồng Nhung",
+  "emailNhanHang": "nguoimua13@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-09-14T16:38:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f8"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000009"
+      },
+      "tenSanPham": "Quần kaki nam ống đứng",
+      "giaSanPham": 360000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f894"
+      },
+      "tenSanPham": "Quần jean nam slim",
+      "giaSanPham": 380000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1100000,
+  "diaChiNhanHang": "9 Nguyễn Văn Cừ, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000021",
+  "tenNguoiNhan": "Lê Anh Tuấn",
+  "emailNhanHang": "nguoimua21@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-17T17:19:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000eb"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000028"
+      },
+      "tenSanPham": "Ví da nam mini",
+      "giaSanPham": 250000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 250000,
+  "diaChiNhanHang": "9 Nguyễn Văn Cừ, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000021",
+  "tenNguoiNhan": "Lê Anh Tuấn",
+  "emailNhanHang": "nguoimua21@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-19T21:25:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300009c"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3e3f905d2f9b7e41000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000024"
+      },
+      "tenSanPham": "React thực hành qua dự án nhỏ",
+      "giaSanPham": 189000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 378000,
+  "diaChiNhanHang": "201 Nguyễn Văn Linh, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000006",
+  "tenNguoiNhan": "Phạm Quốc Bảo",
+  "emailNhanHang": "nguoimua6@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-21T11:38:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e8"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000026"
+      },
+      "tenSanPham": "Tai nghe Bluetooth không dây X200",
+      "giaSanPham": 490000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 980000,
+  "diaChiNhanHang": "77 Nguyễn Oanh, Quận Gò Vấp, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000018",
+  "tenNguoiNhan": "Bùi Tuấn Kiệt",
+  "emailNhanHang": "nguoimua18@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-23T07:31:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a4"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001d"
+      },
+      "tenSanPham": "Ổ cắm điện thông minh Wi-Fi",
+      "giaSanPham": 180000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000005b"
+      },
+      "tenSanPham": "Ốp lưng trong suốt chống ố vàng",
+      "giaSanPham": 69000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000004f"
+      },
+      "tenSanPham": "Ổ cứng di động SSD 500GB",
+      "giaSanPham": 1190000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1439000,
+  "diaChiNhanHang": "45 Trường Chinh, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000020",
+  "tenNguoiNhan": "Trần Thị Bích Ngọc",
+  "emailNhanHang": "nguoimua20@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-25T09:58:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000109"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e4100001f"
+      },
+      "tenSanPham": "Áo hoodie nỉ unisex",
+      "giaSanPham": 380000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 380000,
+  "diaChiNhanHang": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000001",
+  "tenNguoiNhan": "Phạm Thu Hà",
+  "emailNhanHang": "nguoimua1@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-26T16:20:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000051"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300003e"
+      },
+      "tenSanPham": "Tai nghe True Wireless T7 chống ồn",
+      "giaSanPham": 790000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1580000,
+  "diaChiNhanHang": "27 Trần Hưng Đạo, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000005",
+  "tenNguoiNhan": "Lê Thị Hoa",
+  "emailNhanHang": "nguoimua5@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-27T21:56:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000062"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a40e2905d2f9b7e41000004"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000008"
+      },
+      "tenSanPham": "Áo sơ mi nam oxford",
+      "giaSanPham": 320000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 320000,
+  "diaChiNhanHang": "33 Lý Thường Kiệt, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000008",
+  "tenNguoiNhan": "Ngô Đức Thịnh",
+  "emailNhanHang": "nguoimua8@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-28T07:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000bd"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8c08107a1c3e5d90000018"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000041"
+      },
+      "tenSanPham": "Serum vitamin C 30ml",
+      "giaSanPham": 290000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 580000,
+  "diaChiNhanHang": "9 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000014",
+  "tenNguoiNhan": "Vương Gia Khang",
+  "emailNhanHang": "nguoimua14@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-30T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000104"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000040"
+      },
+      "tenSanPham": "Gối đầu cao su non cho bé",
+      "giaSanPham": 160000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 160000,
+  "diaChiNhanHang": "301 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000022",
+  "tenNguoiNhan": "Phạm Ngọc Hân",
+  "emailNhanHang": "nguoimua22@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-09-30T19:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000dc"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000028"
+      },
+      "tenSanPham": "Cây lau nhà xoay 360°",
+      "giaSanPham": 280000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000044"
+      },
+      "tenSanPham": "Máy đánh trứng cầm tay",
+      "giaSanPham": 250000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1060000,
+  "diaChiNhanHang": "112 Điện Biên Phủ, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000019",
+  "tenNguoiNhan": "Nguyễn Hữu Phước",
+  "emailNhanHang": "nguoimua19@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-01T07:02:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000054"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8965107a1c3e5d90000016"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000030"
+      },
+      "tenSanPham": "Bóng đá số 5 da PU",
+      "giaSanPham": 270000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001f"
+      },
+      "tenSanPham": "Balo thể thao chống nước 20L",
+      "giaSanPham": 320000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000040"
+      },
+      "tenSanPham": "Bình nước thể thao 1L nắp bật",
+      "giaSanPham": 130000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 850000,
+  "diaChiNhanHang": "88 Lê Văn Việt, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000012",
+  "tenNguoiNhan": "Trần Minh Quân",
+  "emailNhanHang": "nguoimua12@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-10-02T09:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300007a"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000009"
+      },
+      "tenSanPham": "Quần kaki nam ống đứng",
+      "giaSanPham": 360000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000015"
+      },
+      "tenSanPham": "Áo sơ mi nữ cổ tròn",
+      "giaSanPham": 260000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1240000,
+  "diaChiNhanHang": "78 Hai Bà Trưng, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000003",
+  "tenNguoiNhan": "Đặng Mai Anh",
+  "emailNhanHang": "nguoimua3@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-02T10:53:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000120"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000042"
+      },
+      "tenSanPham": "Son dưỡng môi tự nhiên",
+      "giaSanPham": 89000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000035"
+      },
+      "tenSanPham": "Xịt khoáng dịu da 150ml",
+      "giaSanPham": 120000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300003d"
+      },
+      "tenSanPham": "Kem tay dưỡng ẩm bơ hạt mỡ 50g",
+      "giaSanPham": 95000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 304000,
+  "diaChiNhanHang": "230 Lũy Bán Bích, Quận Tân Phú, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000016",
+  "tenNguoiNhan": "Phạm Đức Anh",
+  "emailNhanHang": "nguoimua16@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-02T18:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000065"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000045"
+      },
+      "tenSanPham": "Kem dưỡng ẩm ban đêm 50g",
+      "giaSanPham": 260000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000032"
+      },
+      "tenSanPham": "Dầu dưỡng tóc argan 100ml",
+      "giaSanPham": 210000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000037"
+      },
+      "tenSanPham": "Nước tẩy trang 300ml",
+      "giaSanPham": 160000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 890000,
+  "diaChiNhanHang": "301 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000022",
+  "tenNguoiNhan": "Phạm Ngọc Hân",
+  "emailNhanHang": "nguoimua22@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-10-03T20:24:00.000Z"
+  },
+  "ghiChu": "Gọi trước khi giao"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ab"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001f"
+      },
+      "tenSanPham": "Balo thể thao chống nước 20L",
+      "giaSanPham": 320000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000002d"
+      },
+      "tenSanPham": "Vợt cầu lông carbon (cặp)",
+      "giaSanPham": 640000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003b"
+      },
+      "tenSanPham": "Tạ tay bọc cao su 3kg (cặp)",
+      "giaSanPham": 290000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1250000,
+  "diaChiNhanHang": "77 Nguyễn Oanh, Quận Gò Vấp, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000018",
+  "tenNguoiNhan": "Bùi Tuấn Kiệt",
+  "emailNhanHang": "nguoimua18@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-10-04T08:18:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d1"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3e3f905d2f9b7e41000002"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f894"
+      },
+      "tenSanPham": "Quần jean nam slim",
+      "giaSanPham": 380000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 380000,
+  "diaChiNhanHang": "201 Nguyễn Văn Linh, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000006",
+  "tenNguoiNhan": "Phạm Quốc Bảo",
+  "emailNhanHang": "nguoimua6@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-04T12:24:00.000Z"
+  },
+  "ghiChu": "Gọi trước khi giao"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300011a"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000039"
+      },
+      "tenSanPham": "Giá đỡ điện thoại để bàn xoay 360°",
+      "giaSanPham": 79000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000005b"
+      },
+      "tenSanPham": "Ốp lưng trong suốt chống ố vàng",
+      "giaSanPham": 69000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 217000,
+  "diaChiNhanHang": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000001",
+  "tenNguoiNhan": "Phạm Thu Hà",
+  "emailNhanHang": "nguoimua1@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-08T14:16:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a8"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8965107a1c3e5d90000016"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000041"
+      },
+      "tenSanPham": "Mũ bucket vải dù",
+      "giaSanPham": 110000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 110000,
+  "diaChiNhanHang": "88 Lê Văn Việt, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000012",
+  "tenNguoiNhan": "Trần Minh Quân",
+  "emailNhanHang": "nguoimua12@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-09T17:22:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c6"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000029"
+      },
+      "tenSanPham": "Bộ chổi và hốt rác gấp gọn",
+      "giaSanPham": 95000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 95000,
+  "diaChiNhanHang": "9 Nguyễn Văn Cừ, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000021",
+  "tenNguoiNhan": "Lê Anh Tuấn",
+  "emailNhanHang": "nguoimua21@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-14T18:55:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000fb"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a40e2905d2f9b7e41000004"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000015"
+      },
+      "tenSanPham": "Áo sơ mi nữ cổ tròn",
+      "giaSanPham": 260000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 520000,
+  "diaChiNhanHang": "33 Lý Thường Kiệt, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000008",
+  "tenNguoiNhan": "Ngô Đức Thịnh",
+  "emailNhanHang": "nguoimua8@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-17T20:58:00.000Z"
+  },
+  "ghiChu": "Gọi trước khi giao"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300010e"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003d"
+      },
+      "tenSanPham": "Quần short thể thao nam",
+      "giaSanPham": 170000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000002a"
+      },
+      "tenSanPham": "Thắt lưng da bò nam",
+      "giaSanPham": 280000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 730000,
+  "diaChiNhanHang": "45 Trường Chinh, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000020",
+  "tenNguoiNhan": "Trần Thị Bích Ngọc",
+  "emailNhanHang": "nguoimua20@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-18T14:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ba"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8c08107a1c3e5d90000018"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000030"
+      },
+      "tenSanPham": "Sổ tay kế hoạch tuần 2027",
+      "giaSanPham": 85000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 85000,
+  "diaChiNhanHang": "9 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000014",
+  "tenNguoiNhan": "Vương Gia Khang",
+  "emailNhanHang": "nguoimua14@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-20T11:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000116"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300002f"
+      },
+      "tenSanPham": "Quần tây nữ ống suông",
+      "giaSanPham": 340000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 680000,
+  "diaChiNhanHang": "27 Trần Hưng Đạo, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000005",
+  "tenNguoiNhan": "Lê Thị Hoa",
+  "emailNhanHang": "nguoimua5@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-21T07:11:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ad"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300000b"
+      },
+      "tenSanPham": "Cáp sạc Lightning 1m MFi",
+      "giaSanPham": 99000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 198000,
+  "diaChiNhanHang": "14 Hoàng Văn Thụ, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000017",
+  "tenNguoiNhan": "Cao Mỹ Linh",
+  "emailNhanHang": "nguoimua17@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-21T09:39:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000112"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000057"
+      },
+      "tenSanPham": "Mặt nạ giấy dưỡng ẩm hộp 10 miếng",
+      "giaSanPham": 150000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000022"
+      },
+      "tenSanPham": "Toner cân bằng da 200ml",
+      "giaSanPham": 180000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300003d"
+      },
+      "tenSanPham": "Kem tay dưỡng ẩm bơ hạt mỡ 50g",
+      "giaSanPham": 95000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 605000,
+  "diaChiNhanHang": "45 Trường Chinh, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000020",
+  "tenNguoiNhan": "Trần Thị Bích Ngọc",
+  "emailNhanHang": "nguoimua20@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-23T15:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000091"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000045"
+      },
+      "tenSanPham": "Kem dưỡng ẩm ban đêm 50g",
+      "giaSanPham": 260000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000001d"
+      },
+      "tenSanPham": "Dầu gội thảo dược 400ml",
+      "giaSanPham": 170000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000054"
+      },
+      "tenSanPham": "Sữa rửa mặt dịu nhẹ 150ml",
+      "giaSanPham": 135000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 565000,
+  "diaChiNhanHang": "63 Kha Vạn Cân, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000024",
+  "tenNguoiNhan": "Đặng Mai Phương",
+  "emailNhanHang": "nguoimua24@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-24T07:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e4"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ad096109c4e2a6f13000007"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300002a"
+      },
+      "tenSanPham": "Bóng rổ da số 7",
+      "giaSanPham": 350000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000002d"
+      },
+      "tenSanPham": "Vợt cầu lông carbon (cặp)",
+      "giaSanPham": 640000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1980000,
+  "diaChiNhanHang": "18 Cộng Hòa, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000025",
+  "tenNguoiNhan": "Hồ Quốc Cường",
+  "emailNhanHang": "nguoimua25@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-24T15:08:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e0"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000020"
+      },
+      "tenSanPham": "Thiết kế cơ sở dữ liệu thực hành",
+      "giaSanPham": 168000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000004d"
+      },
+      "tenSanPham": "Tiếng Anh giao tiếp văn phòng",
+      "giaSanPham": 98000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000043"
+      },
+      "tenSanPham": "Tiếng Anh cho lập trình viên",
+      "giaSanPham": 110000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 376000,
+  "diaChiNhanHang": "27 Trần Hưng Đạo, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000005",
+  "tenNguoiNhan": "Lê Thị Hoa",
+  "emailNhanHang": "nguoimua5@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-25T20:01:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000fe"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f898"
+      },
+      "tenSanPham": "Bình đun siêu tốc 1.8L",
+      "giaSanPham": 250000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000017"
+      },
+      "tenSanPham": "Gối nằm cao su non",
+      "giaSanPham": 420000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000014"
+      },
+      "tenSanPham": "Quạt đứng 5 cánh tiết kiệm điện",
+      "giaSanPham": 850000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 2620000,
+  "diaChiNhanHang": "14 Hoàng Văn Thụ, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000017",
+  "tenNguoiNhan": "Cao Mỹ Linh",
+  "emailNhanHang": "nguoimua17@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-10-26T08:44:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300006b"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000032"
+      },
+      "tenSanPham": "Thùng rác thông minh cảm biến",
+      "giaSanPham": 480000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300003c"
+      },
+      "tenSanPham": "Khay đá viên silicone nắp đậy",
+      "giaSanPham": 59000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000028"
+      },
+      "tenSanPham": "Cây lau nhà xoay 360°",
+      "giaSanPham": 280000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1579000,
+  "diaChiNhanHang": "77 Nguyễn Oanh, Quận Gò Vấp, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000018",
+  "tenNguoiNhan": "Bùi Tuấn Kiệt",
+  "emailNhanHang": "nguoimua18@example.com",
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-10-26T21:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000bf"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000048"
+      },
+      "tenSanPham": "Loa Bluetooth Bass Max M2",
+      "giaSanPham": 890000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000046"
+      },
+      "tenSanPham": "Tai nghe gaming G5 có micro",
+      "giaSanPham": 520000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1410000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "tenNguoiNhan": "Võ Quốc Bảo",
+  "emailNhanHang": "nguoimua2@example.com",
+  "trangThaiDH": "dahuy",
+  "ngayDat": {
+    "$date": "2026-10-30T11:24:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ee"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000035"
+      },
+      "tenSanPham": "Thảm chơi xốp gấp gọn 1m8",
+      "giaSanPham": 390000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000039"
+      },
+      "tenSanPham": "Khăn xô cotton cho bé (set 5 chiếc)",
+      "giaSanPham": 140000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001e"
+      },
+      "tenSanPham": "Bộ sách vải cho bé 6 cuốn",
+      "giaSanPham": 180000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 710000,
+  "diaChiNhanHang": "9 Nguyễn Văn Cừ, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000021",
+  "tenNguoiNhan": "Lê Anh Tuấn",
+  "emailNhanHang": "nguoimua21@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-03T08:46:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f6"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8d59907a1c3e5d90000019"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003f"
+      },
+      "tenSanPham": "Sổ tay ghi chú bìa cứng A5",
+      "giaSanPham": 65000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 130000,
+  "diaChiNhanHang": "61 Âu Cơ, Quận Tân Phú, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000015",
+  "tenNguoiNhan": "Đinh Thảo Vy",
+  "emailNhanHang": "nguoimua15@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-03T14:02:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000da"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e4100002f"
+      },
+      "tenSanPham": "Laptop 2 trong 1 Flex 13 inch",
+      "giaSanPham": 16200000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 16200000,
+  "diaChiNhanHang": "14 Hoàng Văn Thụ, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000017",
+  "tenNguoiNhan": "Cao Mỹ Linh",
+  "emailNhanHang": "nguoimua17@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-03T14:19:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000067"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e4100001b"
+      },
+      "tenSanPham": "Cáp sạc USB-C 1m bện dù",
+      "giaSanPham": 79000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 79000,
+  "diaChiNhanHang": "230 Lũy Bán Bích, Quận Tân Phú, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000016",
+  "tenNguoiNhan": "Phạm Đức Anh",
+  "emailNhanHang": "nguoimua16@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-03T15:50:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000047"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8813907a1c3e5d90000015"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000038"
+      },
+      "tenSanPham": "Kỹ năng quản lý thời gian cho sinh viên",
+      "giaSanPham": 89000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 89000,
+  "diaChiNhanHang": "15 Nguyễn Đình Chiểu, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000011",
+  "tenNguoiNhan": "Nguyễn Thị Thanh Tâm",
+  "emailNhanHang": "nguoimua11@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-04T07:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000100"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000026"
+      },
+      "tenSanPham": "Balo laptop chống nước 15.6 inch",
+      "giaSanPham": 420000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 420000,
+  "diaChiNhanHang": "77 Nguyễn Oanh, Quận Gò Vấp, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000018",
+  "tenNguoiNhan": "Bùi Tuấn Kiệt",
+  "emailNhanHang": "nguoimua18@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-04T07:37:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300009a"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000035"
+      },
+      "tenSanPham": "Xịt khoáng dịu da 150ml",
+      "giaSanPham": 120000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 240000,
+  "diaChiNhanHang": "78 Hai Bà Trưng, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000003",
+  "tenNguoiNhan": "Đặng Mai Anh",
+  "emailNhanHang": "nguoimua3@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-04T10:43:00.000Z"
+  },
+  "ghiChu": "Gọi trước khi giao"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000056"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8c08107a1c3e5d90000018"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300002a"
+      },
+      "tenSanPham": "Bóng rổ da số 7",
+      "giaSanPham": 350000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 700000,
+  "diaChiNhanHang": "9 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000014",
+  "tenNguoiNhan": "Vương Gia Khang",
+  "emailNhanHang": "nguoimua14@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-04T11:57:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000088"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000017"
+      },
+      "tenSanPham": "Gối nằm cao su non",
+      "giaSanPham": 420000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f899"
+      },
+      "tenSanPham": "Bộ chăn ga gối cotton",
+      "giaSanPham": 690000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1800000,
+  "diaChiNhanHang": "45 Trường Chinh, Quận Tân Bình, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000020",
+  "tenNguoiNhan": "Trần Thị Bích Ngọc",
+  "emailNhanHang": "nguoimua20@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-04T12:29:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300008d"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a4234105d2f9b7e41000005"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000040"
+      },
+      "tenSanPham": "Bình nước thể thao 1L nắp bật",
+      "giaSanPham": 130000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300002a"
+      },
+      "tenSanPham": "Bóng rổ da số 7",
+      "giaSanPham": 350000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 960000,
+  "diaChiNhanHang": "18 Phan Xích Long, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000009",
+  "tenNguoiNhan": "Trương Ngọc Diệp",
+  "emailNhanHang": "nguoimua9@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-04T14:11:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000cb"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3f91105d2f9b7e41000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000003e"
+      },
+      "tenSanPham": "Dây nhảy thể dục đếm số",
+      "giaSanPham": 85000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 85000,
+  "diaChiNhanHang": "56 Cách Mạng Tháng 8, Quận 10, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000007",
+  "tenNguoiNhan": "Hoàng Thị Mai Linh",
+  "emailNhanHang": "nguoimua7@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-04T21:41:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000049"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000031"
+      },
+      "tenSanPham": "Bình giữ nhiệt 500ml",
+      "giaSanPham": 159000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e4100000b"
+      },
+      "tenSanPham": "Đèn ngủ cảm ứng để bàn",
+      "giaSanPham": 180000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e4100001c"
+      },
+      "tenSanPham": "Máy xay sinh tố đa năng",
+      "giaSanPham": 690000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1029000,
+  "diaChiNhanHang": "27 Trần Hưng Đạo, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000005",
+  "tenNguoiNhan": "Lê Thị Hoa",
+  "emailNhanHang": "nguoimua5@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-05T07:37:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300005a"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000051"
+      },
+      "tenSanPham": "Váy xếp ly dài",
+      "giaSanPham": 340000,
+      "soLuong": 2
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000052"
+      },
+      "tenSanPham": "Giày chạy bộ nhẹ",
+      "giaSanPham": 690000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1370000,
+  "diaChiNhanHang": "27 Trần Hưng Đạo, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000005",
+  "tenNguoiNhan": "Lê Thị Hoa",
+  "emailNhanHang": "nguoimua5@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-05T09:25:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b5"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000020"
+      },
+      "tenSanPham": "Thiết kế cơ sở dữ liệu thực hành",
+      "giaSanPham": 168000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 168000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "tenNguoiNhan": "Võ Quốc Bảo",
+  "emailNhanHang": "nguoimua2@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-05T09:35:00.000Z"
+  },
+  "ghiChu": "Gọi trước khi giao"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300009e"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001e"
+      },
+      "tenSanPham": "Bộ sách vải cho bé 6 cuốn",
+      "giaSanPham": 180000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 180000,
+  "diaChiNhanHang": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000001",
+  "tenNguoiNhan": "Phạm Thu Hà",
+  "emailNhanHang": "nguoimua1@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-05T14:19:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000069"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d9000001e"
+      },
+      "tenSanPham": "Python cho người mới bắt đầu",
+      "giaSanPham": 149000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 149000,
+  "diaChiNhanHang": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000001",
+  "tenNguoiNhan": "Phạm Thu Hà",
+  "emailNhanHang": "nguoimua1@example.com",
+  "trangThaiDH": "danggiao",
+  "ngayDat": {
+    "$date": "2026-11-05T14:46:00.000Z"
+  },
+  "ghiChu": "Để hàng ở bảo vệ nếu vắng nhà"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000118"
+  },
+  "nguoiMuaId": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000048"
+      },
+      "tenSanPham": "Loa Bluetooth Bass Max M2",
+      "giaSanPham": 890000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300002c"
+      },
+      "tenSanPham": "Dàn loa vi tính 2.1 Bass Box",
+      "giaSanPham": 690000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 1580000,
+  "diaChiNhanHang": "112 Điện Biên Phủ, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000019",
+  "tenNguoiNhan": "Nguyễn Hữu Phước",
+  "emailNhanHang": "nguoimua19@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-05T17:32:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a2"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000038"
+      },
+      "tenSanPham": "Kỹ năng quản lý thời gian cho sinh viên",
+      "giaSanPham": 89000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000043"
+      },
+      "tenSanPham": "Tiếng Anh cho lập trình viên",
+      "giaSanPham": 110000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 309000,
+  "diaChiNhanHang": "301 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000022",
+  "tenNguoiNhan": "Phạm Ngọc Hân",
+  "emailNhanHang": "nguoimua22@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-05T19:18:00.000Z"
+  },
+  "ghiChu": "Giao giờ hành chính"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300011e"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a4234105d2f9b7e41000005"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f895"
+      },
+      "tenSanPham": "Váy midi hoa nhí",
+      "giaSanPham": 290000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e4100001f"
+      },
+      "tenSanPham": "Áo hoodie nỉ unisex",
+      "giaSanPham": 380000,
+      "soLuong": 2
+    }
+  ],
+  "tongTienDH": 1050000,
+  "diaChiNhanHang": "18 Phan Xích Long, Quận Phú Nhuận, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000009",
+  "tenNguoiNhan": "Trương Ngọc Diệp",
+  "emailNhanHang": "nguoimua9@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-06T07:59:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a0"
+  },
+  "nguoiMuaId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6a44d7105d2f9b7e41000021"
+      },
+      "tenSanPham": "Ấm đun nước thủy tinh 1.7L",
+      "giaSanPham": 330000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001a"
+      },
+      "tenSanPham": "Giá treo quần áo thông minh",
+      "giaSanPham": 260000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 590000,
+  "diaChiNhanHang": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000002",
+  "tenNguoiNhan": "Võ Quốc Bảo",
+  "emailNhanHang": "nguoimua2@example.com",
+  "trangThaiDH": "daxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-06T17:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000058"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a4385905d2f9b7e41000006"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000047"
+      },
+      "tenSanPham": "Bình giữ nhiệt 750ml nắp tay cầm",
+      "giaSanPham": 199000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6addc5107a1c3e5d90000059"
+      },
+      "tenSanPham": "Bộ hộp đựng thực phẩm thủy tinh 6 món",
+      "giaSanPham": 360000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000044"
+      },
+      "tenSanPham": "Quạt sạc tích điện cầm tay",
+      "giaSanPham": 190000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 749000,
+  "diaChiNhanHang": "120 Quang Trung, Quận Gò Vấp, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000010",
+  "tenNguoiNhan": "Huỳnh Minh Khoa",
+  "emailNhanHang": "nguoimua10@example.com",
+  "trangThaiDH": "choxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-07T09:47:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c9"
+  },
+  "nguoiMuaId": {
+    "$oid": "6a8c08107a1c3e5d90000018"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300000f"
+      },
+      "tenSanPham": "Node.js và Express từ cơ bản đến nâng cao",
+      "giaSanPham": 195000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 195000,
+  "diaChiNhanHang": "9 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000014",
+  "tenNguoiNhan": "Vương Gia Khang",
+  "emailNhanHang": "nguoimua14@example.com",
+  "trangThaiDH": "choxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-07T20:46:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af0541b69fc774fd9b2eb05"
+  },
+  "maDon": "DHB2EB05",
+  "nguoiMuaId": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000020"
+      },
+      "tenSanPham": "Điện thoại Aura S2 5G 128GB",
+      "giaSanPham": 7490000,
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001b"
+      },
+      "tenSanPham": "Đế sạc không dây 15W",
+      "giaSanPham": 240000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 7730000,
+  "diaChiNhanHang": "112 Điện Biên Phủ, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000019",
+  "tenNguoiNhan": "Nguyễn Hữu Phước",
+  "emailNhanHang": "nguoimua19@example.com",
+  "ghiChu": "",
+  "khoDaTru": true,
+  "trangThaiDH": "choxacnhan",
+  "ngayDat": {
+    "$date": "2026-11-08T10:51:07.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af1699ce109a70e188afc23"
+  },
+  "maDon": "DH8AFC23",
+  "nguoiMuaId": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "gianHangId": {
+    "$oid": "6af16806e109a70e188afb1f"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6af168abe109a70e188afb8b"
+      },
+      "tenSanPham": "Thắc lưng biến hình kamen rider ZIO",
+      "giaSanPham": 2000000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 2000000,
+  "diaChiNhanHang": "112 Điện Biên Phủ, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000019",
+  "tenNguoiNhan": "Nguyễn Hữu Phước",
+  "emailNhanHang": "nguoimua19@example.com",
+  "ghiChu": "",
+  "khoDaTru": true,
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-11-09T06:35:08.198Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af16ff0dd66626e0e6abfa5"
+  },
+  "maDon": "DH6ABFA5",
+  "nguoiMuaId": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "gianHangId": {
+    "$oid": "6af16806e109a70e188afb1f"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6af16fb6dd66626e0e6abf6d"
+      },
+      "tenSanPham": "Thắc lưng biến hình kamen rider ZIO",
+      "giaSanPham": 2000000,
+      "soLuong": 1
+    }
+  ],
+  "tongTienDH": 2000000,
+  "diaChiNhanHang": "112 Điện Biên Phủ, Quận 3, TP. Hồ Chí Minh",
+  "sdtNhanHang": "0922000019",
+  "tenNguoiNhan": "Nguyễn Hữu Phước",
+  "emailNhanHang": "nguoimua19@example.com",
+  "ghiChu": "",
+  "khoDaTru": true,
+  "trangThaiDH": "hoanthanh",
+  "ngayDat": {
+    "$date": "2026-11-09T07:02:08.816Z"
+  }
+}]

@@ -1,0 +1,246 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f87c"
+  },
+  "username": "admin",
+  "email": "admin@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Quản trị viên",
+  "soDienThoai": "0900000000",
+  "diaChi": "TP. Hồ Chí Minh",
+  "role": "admin",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f87d"
+  },
+  "username": "nguoiban1",
+  "email": "nguoiban1@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Nguyễn Minh Tuấn",
+  "soDienThoai": "0911000001",
+  "diaChi": "Quận 1, TP. Hồ Chí Minh",
+  "role": "nguoiban",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f87e"
+  },
+  "username": "nguoiban2",
+  "email": "nguoiban2@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Trần Thị Lan",
+  "soDienThoai": "0911000002",
+  "diaChi": "Quận 3, TP. Hồ Chí Minh",
+  "role": "nguoiban",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f87f"
+  },
+  "username": "nguoiban3",
+  "email": "nguoiban3@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Lê Hoàng Nam",
+  "soDienThoai": "0911000003",
+  "diaChi": "TP. Thủ Đức, TP. Hồ Chí Minh",
+  "role": "nguoiban",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "username": "nguoimua1",
+  "email": "nguoimua1@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Phạm Thu Hà",
+  "soDienThoai": "0922000001",
+  "diaChi": "12 Lê Lợi, Quận 1, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "username": "nguoimua2",
+  "email": "nguoimua2@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Võ Quốc Bảo",
+  "soDienThoai": "0922000002",
+  "diaChi": "45 Nguyễn Trãi, Quận 5, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "username": "nguoimua3",
+  "email": "nguoimua3@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Đặng Mai Anh",
+  "soDienThoai": "0922000003",
+  "diaChi": "78 Hai Bà Trưng, Quận 3, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f883"
+  },
+  "username": "nguoimua4",
+  "email": "nguoimua4@example.com",
+  "matKhau": "$2b$10$qmQpslj5SC9CC515qccwXuXD.BBi12p9fQtU2dG3j5Sv72r2R4M1a",
+  "hoTen": "Bùi Gia Huy",
+  "soDienThoai": "0922000004",
+  "diaChi": "9 Võ Văn Ngân, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": false
+},
+{
+  "_id": {
+    "$oid": "6ae4456be591f744afcc4675"
+  },
+  "username": "phatntd56",
+  "email": "phatntd56@gmail.com",
+  "matKhau": "$2a$10$VymfkAdSoxiY35UF52Z1t.t9WZ87k2zR2kHMUWN6rUOT4Awa0Nzee",
+  "hoTen": "Đinh Hoàng Hữu Phát",
+  "soDienThoai": "0931847225",
+  "diaChi": "",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6ae8314477da07564e72f799"
+  },
+  "username": "nguoibanhang",
+  "email": "nguoibanhang@gmail.com",
+  "matKhau": "$2a$10$ath8yzQqnk9ZOvfL7IEml.ZKOgmZLFb2KMrQKs7dMd8gBGZRdxIkG",
+  "hoTen": "nguoibanhang",
+  "role": "nguoiban",
+  "trangThai": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "username": "nguoimua19",
+  "email": "nguoimua19@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Nguyễn Hữu Phước",
+  "soDienThoai": "0922000019",
+  "diaChi": "112 Điện Biên Phủ, Quận 3, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "username": "nguoimua20",
+  "email": "nguoimua20@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Trần Thị Bích Ngọc",
+  "soDienThoai": "0922000020",
+  "diaChi": "45 Trường Chinh, Quận Tân Bình, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "username": "nguoimua21",
+  "email": "nguoimua21@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Lê Anh Tuấn",
+  "soDienThoai": "0922000021",
+  "diaChi": "9 Nguyễn Văn Cừ, Quận 5, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "username": "nguoimua22",
+  "email": "nguoimua22@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Phạm Ngọc Hân",
+  "soDienThoai": "0922000022",
+  "diaChi": "301 Nguyễn Thị Thập, Quận 7, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acdf3109c4e2a6f13000005"
+  },
+  "username": "nguoimua23",
+  "email": "nguoimua23@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Võ Thanh Sơn",
+  "soDienThoai": "0922000023",
+  "diaChi": "27 Lê Đức Thọ, Quận Gò Vấp, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "username": "nguoimua24",
+  "email": "nguoimua24@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Đặng Mai Phương",
+  "soDienThoai": "0922000024",
+  "diaChi": "63 Kha Vạn Cân, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6ad096109c4e2a6f13000007"
+  },
+  "username": "nguoimua25",
+  "email": "nguoimua25@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Hồ Quốc Cường",
+  "soDienThoai": "0922000025",
+  "diaChi": "18 Cộng Hòa, Quận Tân Bình, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6ad1e7909c4e2a6f13000008"
+  },
+  "username": "nguoimua26",
+  "email": "nguoimua26@example.com",
+  "matKhau": "$2a$10$2ur/apdtcsZtvfwKZk990e1YYZpLZAViZaMTORagzym20e01/JgUu",
+  "hoTen": "Lương Bảo Trân",
+  "soDienThoai": "0922000026",
+  "diaChi": "5 Nguyễn Trãi, Quận 1, TP. Hồ Chí Minh",
+  "role": "nguoimua",
+  "trangThai": true
+},
+{
+  "_id": {
+    "$oid": "6af16806e109a70e188afb1d"
+  },
+  "username": "Nguoibanhang02",
+  "email": "nguoibanhang02@sancam.com",
+  "matKhau": "$2a$10$S1.NjX3oeRmUEnkICwYmauRVVPBT/DomMTU8hFg84J0dM4dzqSO6m",
+  "hoTen": "Nguoibanhang02",
+  "role": "nguoiban",
+  "trangThai": true,
+  "diaChi": "",
+  "soDienThoai": ""
+}]

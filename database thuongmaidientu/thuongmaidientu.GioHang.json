@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f89b"
+  },
+  "nguoiDungId": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f890"
+      },
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f892"
+      },
+      "soLuong": 2
+    }
+  ],
+  "tongTien": 630000
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f89c"
+  },
+  "nguoiDungId": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f896"
+      },
+      "soLuong": 1
+    }
+  ],
+  "tongTien": 520000
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f89d"
+  },
+  "nguoiDungId": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f891"
+      },
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f890"
+      },
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6acddc6139df426378b1f895"
+      },
+      "soLuong": 1
+    }
+  ],
+  "tongTien": 960000
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000124"
+  },
+  "nguoiDungId": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "danhSachSanPham": [],
+  "tongTien": 0
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000125"
+  },
+  "nguoiDungId": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300000f"
+      },
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000024"
+      },
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000030"
+      },
+      "soLuong": 1
+    }
+  ],
+  "tongTien": 469000
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000126"
+  },
+  "nguoiDungId": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000033"
+      },
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000040"
+      },
+      "soLuong": 2
+    }
+  ],
+  "tongTien": 1050000
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000127"
+  },
+  "nguoiDungId": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "danhSachSanPham": [
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f1300001c"
+      },
+      "soLuong": 1
+    },
+    {
+      "sanPhamId": {
+        "$oid": "6aed97109c4e2a6f13000012"
+      },
+      "soLuong": 1
+    }
+  ],
+  "tongTien": 330000
+}]

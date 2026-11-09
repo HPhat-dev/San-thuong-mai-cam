@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f887"
+  },
+  "tenDanhMuc": "Điện thoại",
+  "moTaDanhMuc": "Điện thoại di động"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f888"
+  },
+  "tenDanhMuc": "Laptop",
+  "moTaDanhMuc": "Máy tính xách tay"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "tenDanhMuc": "Phụ kiện",
+  "moTaDanhMuc": "Phụ kiện điện thoại và máy tính"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "tenDanhMuc": "Thời trang",
+  "moTaDanhMuc": "Quần áo, giày dép"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "tenDanhMuc": "Gia dụng",
+  "moTaDanhMuc": "Đồ dùng trong gia đình"
+},
+{
+  "_id": {
+    "$oid": "6af16bd6e109a70e188afd62"
+  },
+  "tenDanhMuc": "Đồ chơi",
+  "moTaDanhMuc": "Đồ chơi"
+}]

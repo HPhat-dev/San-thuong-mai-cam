@@ -1,0 +1,1222 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a8"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f89e"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 6080000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-23T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8a9"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f89f"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 680000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-01T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8aa"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a0"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 12900000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-08T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8ab"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a1"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1350000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8ac"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a2"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 670000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-11T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8ad"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a3"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 290000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8ae"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a4"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 690000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8af"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a5"
+  },
+  "phuongThucTT": "khac",
+  "soTienTT": 9490000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-24T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b0"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a6"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 250000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-07T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b1"
+  },
+  "donHangId": {
+    "$oid": "6acddc6139df426378b1f8a7"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 520000,
+  "trangThaiTT": "thatbai"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000046"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000045"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 617000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000048"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000047"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 89000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300004a"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000049"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1029000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300004c"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300004b"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 99000,
+  "trangThaiTT": "thatbai"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300004e"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300004d"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1150000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-28T18:47:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000052"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000051"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1580000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-30T21:56:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000055"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000054"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 850000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000057"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000056"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 700000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000059"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000058"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 749000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300005b"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300005a"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1370000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300005d"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300005c"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 6089000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-05T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000060"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300005f"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 260000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-06T07:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000063"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000062"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 320000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-01T07:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000066"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000065"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 890000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000068"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000067"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 79000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-03T15:50:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300006a"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000069"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 149000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300006c"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300006b"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1579000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-29T21:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000071"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000070"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 3370000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-29T09:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000076"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000075"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 748000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-07T19:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300007b"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300007a"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1240000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-05T10:53:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300007e"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300007d"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 740000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-15T15:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000082"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000081"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 220000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-03T11:52:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000085"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000084"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 830000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-10T14:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000089"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000088"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 1800000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-04T12:29:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300008b"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300008a"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 79000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-23T15:28:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300008e"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300008d"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 960000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000090"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300008f"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 135000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-29T09:31:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000092"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000091"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 565000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-27T07:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000096"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000095"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 878000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-24T11:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300009b"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300009a"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 240000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300009d"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300009c"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 378000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-24T11:38:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300009f"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300009e"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 180000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a1"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000a0"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 590000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-06T17:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a3"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000a2"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 309000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a5"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000a4"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 1439000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-25T09:58:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a9"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000a8"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 110000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-12T17:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ac"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000ab"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1250000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ae"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000ad"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 198000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-24T09:39:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b0"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000af"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 450000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-05T11:52:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b3"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000b2"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 390000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-25T15:36:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b6"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000b5"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 168000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-05T09:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b8"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000b7"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 360000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-17T07:41:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000bb"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000ba"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 85000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-20T11:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000be"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000bd"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 580000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-30T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c0"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000bf"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 1410000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c2"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000c1"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 529000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-19T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c7"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000c6"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 95000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-17T18:55:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ca"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000c9"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 195000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000cc"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000cb"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 85000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-04T21:41:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ce"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000cd"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 160000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-25T12:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d0"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000cf"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 450000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-23T21:38:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d2"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000d1"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 380000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-07T12:24:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d5"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000d4"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 336000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-21T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d7"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000d6"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 15470000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-11T13:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000db"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000da"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 16200000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-03T14:19:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000dd"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000dc"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 1060000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-01T07:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e1"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000e0"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 376000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-28T20:01:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e5"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000e4"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1980000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-27T15:08:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e9"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000e8"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 980000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-26T07:31:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ec"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000eb"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 250000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-22T21:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ef"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000ee"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 710000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f1"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000f0"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 360000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-30T07:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f4"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000f3"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 260000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-03T19:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f7"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000f6"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 130000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f9"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000f8"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 1100000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-17T17:19:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000fc"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000fb"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 520000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-20T20:58:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ff"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f130000fe"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 2620000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000101"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000100"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 420000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-04T07:37:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000103"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000102"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 304000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000105"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000104"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 160000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-03T19:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000107"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000106"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 1640000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-08-21T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300010a"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000109"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 380000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-29T16:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300010d"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300010c"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 99000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-09-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300010f"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300010e"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 730000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-21T14:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000113"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000112"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 605000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-26T15:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000117"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000116"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 680000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-24T07:11:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000119"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000118"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 1580000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-05T17:32:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300011b"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300011a"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 217000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-08T14:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300011f"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f1300011e"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 1050000,
+  "trangThaiTT": "chuathanhtoan"
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000121"
+  },
+  "donHangId": {
+    "$oid": "6aeee8909c4e2a6f13000120"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 304000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-10-02T18:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af0541b69fc774fd9b2eb08"
+  },
+  "donHangId": {
+    "$oid": "6af0541b69fc774fd9b2eb05"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 7730000,
+  "trangThaiTT": "chuathanhtoan",
+  "maThamChieuVNP": "17941350707579652"
+},
+{
+  "_id": {
+    "$oid": "6af1699ce109a70e188afc26"
+  },
+  "donHangId": {
+    "$oid": "6af1699ce109a70e188afc23"
+  },
+  "phuongThucTT": "cod",
+  "soTienTT": 2000000,
+  "trangThaiTT": "thatbai",
+  "maThamChieuVNP": "17942061134647448",
+  "maGiaoDichVNP": "0",
+  "nganHangVNP": "VNPAY"
+},
+{
+  "_id": {
+    "$oid": "6af16ff0dd66626e0e6abfa8"
+  },
+  "donHangId": {
+    "$oid": "6af16ff0dd66626e0e6abfa5"
+  },
+  "phuongThucTT": "chuyenkhoan",
+  "soTienTT": 2000000,
+  "trangThaiTT": "dathanhtoan",
+  "ngayThanhToan": {
+    "$date": "2026-11-09T07:02:26.520Z"
+  }
+}]

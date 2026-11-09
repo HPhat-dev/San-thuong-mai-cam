@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b7"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "cauHoi": "Tư vấn giúp mình điện thoại tầm 6 triệu",
+  "cauTraLoi": "Bạn có thể tham khảo Điện thoại thông minh Nova 128GB (5.990.000 đ) của gian hàng TechZone.",
+  "thoiGian": {
+    "$date": "2026-09-22T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b8"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "cauHoi": "Mình cần laptop cho sinh viên, giá dưới 11 triệu",
+  "cauTraLoi": "Laptop học tập Study 15.6 inch (10.500.000 đ) là lựa chọn phù hợp trong tầm giá của bạn.",
+  "thoiGian": {
+    "$date": "2026-10-08T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b9"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acddc6139df426378b1f87d"
+  },
+  "cauHoi": "Gợi ý cách viết mô tả cho sản phẩm tai nghe",
+  "cauTraLoi": "Bạn nên nêu rõ chuẩn Bluetooth, thời lượng pin, tính năng chống ồn và thời gian bảo hành.",
+  "thoiGian": {
+    "$date": "2026-10-06T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8ba"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acddc6139df426378b1f87e"
+  },
+  "cauHoi": "Làm sao tăng lượt mua cho gian hàng thời trang?",
+  "cauTraLoi": "Hãy dùng ảnh rõ nét nhiều góc, mô tả kích cỡ chi tiết và trả lời nhanh các câu hỏi của khách.",
+  "thoiGian": {
+    "$date": "2026-10-11T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae4457be591f744afcc46b6"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6ae4456be591f744afcc4675"
+  },
+  "cauHoi": "Gợi ý sản phẩm bán chạy",
+  "cauTraLoi": "Đây là các sản phẩm đang được mua nhiều nhất:",
+  "thoiGian": {
+    "$date": "2026-10-30T07:21:31.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000128"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "cauHoi": "Điện thoại 5G tầm 7 triệu có máy nào?",
+  "cauTraLoi": "Bạn xem Điện thoại Aura S2 5G 128GB (7.490.000 đ) của TechZone: AMOLED 120Hz, RAM 8GB, sạc nhanh 67W.",
+  "thoiGian": {
+    "$date": "2026-11-05T20:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000129"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "cauHoi": "Mình muốn tai nghe chống ồn",
+  "cauTraLoi": "Mình gợi ý Tai nghe True Wireless T7 chống ồn (790.000 đ) của SoundMax Store, có chống ồn chủ động và chế độ xuyên âm.",
+  "thoiGian": {
+    "$date": "2026-11-05T21:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300012a"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "cauHoi": "Sách học backend Node.js",
+  "cauTraLoi": "Bạn có thể tham khảo Node.js và Express từ cơ bản đến nâng cao (195.000 đ) của Nhà Sách Tri Thức.",
+  "thoiGian": {
+    "$date": "2026-11-06T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300012b"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "cauHoi": "Giày chạy bộ dưới 800.000đ",
+  "cauTraLoi": "Giày chạy bộ Sport Run đệm khí (790.000 đ) của Sport Plus có đệm khí, nặng khoảng 260 g.",
+  "thoiGian": {
+    "$date": "2026-11-06T18:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300012c"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acdf3109c4e2a6f13000005"
+  },
+  "cauHoi": "Đồ chơi cho bé 1 tuổi",
+  "cauTraLoi": "Bạn có thể xem Xe tập đi cho bé có nhạc (450.000 đ) của Bé Yêu Store, dành cho bé từ 6 đến 24 tháng.",
+  "thoiGian": {
+    "$date": "2026-11-07T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300012d"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "cauHoi": "Cách đặt hàng",
+  "cauTraLoi": "Bạn thêm sản phẩm vào giỏ hàng, chọn Tiến hành đặt hàng, nhập thông tin nhận hàng rồi chọn phương thức thanh toán.",
+  "thoiGian": {
+    "$date": "2026-11-07T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af16827e109a70e188afb47"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6af16806e109a70e188afb1d"
+  },
+  "cauHoi": "Xem thống kê doanh thu",
+  "cauTraLoi": "Gian hàng của bạn có 0 sản phẩm, 0 đơn hàng, 0 đơn đã xử lý và doanh thu 0đ (tính trên đơn hoàn thành).",
+  "thoiGian": {
+    "$date": "2026-11-09T06:28:55.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af19d472b6a56bb4340b415"
+  },
+  "nguoiDungIdTN": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "cauHoi": "Cho tôi điện thoại tầm giá 25 triệu",
+  "cauTraLoi": "Mình gợi ý cho bạn một số sản phẩm phù hợp:",
+  "thoiGian": {
+    "$date": "2026-11-09T10:15:35.790Z"
+  }
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f884"
+  },
+  "tenGianHang": "TechZone",
+  "moTaGianHang": "Điện thoại, laptop và phụ kiện công nghệ chính hãng",
+  "logo": "https://placehold.co/600x400?text=TechZone",
+  "nguoiBanId": {
+    "$oid": "6acddc6139df426378b1f87d"
+  },
+  "trangThai": "hoatdong"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f885"
+  },
+  "tenGianHang": "Thời Trang Xinh",
+  "moTaGianHang": "Quần áo, giày dép phong cách trẻ trung",
+  "logo": "https://placehold.co/600x400?text=Thoi%20Trang%20Xinh",
+  "nguoiBanId": {
+    "$oid": "6acddc6139df426378b1f87e"
+  },
+  "trangThai": "hoatdong"
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f886"
+  },
+  "tenGianHang": "Nhà Xinh",
+  "moTaGianHang": "Đồ gia dụng và đồ dùng trong nhà",
+  "logo": "https://placehold.co/600x400?text=Nha%20Xinh",
+  "nguoiBanId": {
+    "$oid": "6acddc6139df426378b1f87f"
+  },
+  "trangThai": "hoatdong"
+},
+{
+  "_id": {
+    "$oid": "6ae8314477da07564e72f79b"
+  },
+  "tenGianHang": "Gian hàng nguoibanhang",
+  "nguoiBanId": {
+    "$oid": "6ae8314477da07564e72f799"
+  },
+  "trangThai": "hoatdong",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af16806e109a70e188afb1f"
+  },
+  "tenGianHang": "Đồ chơi",
+  "nguoiBanId": {
+    "$oid": "6af16806e109a70e188afb1d"
+  },
+  "trangThai": "hoatdong"
+}]

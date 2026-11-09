@@ -1,0 +1,1139 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b2"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Điện thoại chạy mượt, pin trâu, giao hàng nhanh.",
+  "sanPhamIdDG": {
+    "$oid": "6acddc6139df426378b1f88c"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-25T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b3"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Áo mặc thoải mái, vải mát, đúng mô tả.",
+  "sanPhamIdDG": {
+    "$oid": "6acddc6139df426378b1f893"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-03T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b4"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Laptop nhẹ, màn hình đẹp, phù hợp đi làm.",
+  "sanPhamIdDG": {
+    "$oid": "6acddc6139df426378b1f88e"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-11T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b5"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Máy dùng ổn nhưng hộp bị móp nhẹ khi nhận.",
+  "sanPhamIdDG": {
+    "$oid": "6acddc6139df426378b1f88d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f883"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-27T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f8b6"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Bình đun sôi nhanh, đóng gói cẩn thận.",
+  "sanPhamIdDG": {
+    "$oid": "6acddc6139df426378b1f898"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-09T07:23:13.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300004f"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Hoạt động êm, đúng công suất.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000029"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ad1e7909c4e2a6f13000008"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-01T18:47:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000050"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Hoạt động êm, đúng công suất.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300000e"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ad1e7909c4e2a6f13000008"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-01T18:47:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000053"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Tạm được, tương xứng với giá tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300003e"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-03T03:56:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300005e"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Đóng gói cẩn thận, sẽ ủng hộ tiếp.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e41000023"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a4234105d2f9b7e41000005"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-14T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000061"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Sản phẩm đẹp, hoạt động ổn định.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e41000019"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8d59907a1c3e5d90000019"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-06T15:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000064"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Vải mềm mát, mặc vừa vặn.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e41000008"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a40e2905d2f9b7e41000004"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-05T14:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300006d"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Sản phẩm bình thường, không có gì nổi bật.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000032"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-05T01:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300006e"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Chất lượng tốt so với giá, giao hàng nhanh.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300003c"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-31T21:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300006f"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Hoạt động êm, đúng công suất.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000028"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-02T21:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000072"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Dùng tốt, giao hơi chậm một chút.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000048"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-02T17:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000073"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Khá hài lòng, sẽ giới thiệu bạn bè.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000004b"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-03T16:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000074"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Khá hài lòng, sẽ giới thiệu bạn bè.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300002e"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-29T17:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000077"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Dùng bền, đúng mô tả.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000040"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-16T01:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000078"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Dùng bền, đúng mô tả.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000004a"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-10T23:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000079"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Dùng bền, đúng mô tả.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000003b"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-11T22:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300007c"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Tạm được, tương xứng với giá tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000015"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f882"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-08T17:53:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300007f"
+  },
+  "soSao": 2,
+  "noiDungDanhGia": "Hơi thất vọng, chất lượng chưa như mong đợi.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300002a"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-19T19:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000080"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Khá hài lòng, sẽ giới thiệu bạn bè.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000030"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f881"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-19T20:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000083"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Giấy đẹp, in rõ, nội dung hữu ích.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000043"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-09T11:52:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000086"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Khá hài lòng, sẽ giới thiệu bạn bè.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000027"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-13T18:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000087"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Vải mềm mát, mặc vừa vặn.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000003d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-16T21:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300008c"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Tạm được, tương xứng với giá tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000039"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a3e3f905d2f9b7e41000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-27T16:28:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000093"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Sản phẩm đẹp, hoạt động ổn định.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000001d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-01T09:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000094"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Sản phẩm bình thường, không có gì nổi bật.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000054"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acf44909c4e2a6f13000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-29T10:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000097"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Nhỏ gọn, tiện lợi, đáng tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300000b"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-24T16:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000098"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Nhỏ gọn, tiện lợi, đáng tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300001d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-29T15:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000099"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Nhỏ gọn, tiện lợi, đáng tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000014"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8ffc907a1c3e5d9000001b"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-24T19:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a6"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Đóng gói cẩn thận, sẽ ủng hộ tiếp.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300001d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-03T10:58:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000a7"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Chất lượng tốt so với giá, giao hàng nhanh.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000005b"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-28T12:58:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000aa"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Chất lượng tốt so với giá, giao hàng nhanh.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000041"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8965107a1c3e5d90000016"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-17T20:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b1"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Đóng gói cẩn thận, sẽ ủng hộ tiếp.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000021"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a4385905d2f9b7e41000006"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-05T18:52:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b4"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000035"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a4234105d2f9b7e41000005"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-31T21:36:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000b9"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000059"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a40e2905d2f9b7e41000004"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-20T07:41:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000bc"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Sách trình bày rõ ràng, ví dụ dễ làm theo.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000030"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8c08107a1c3e5d90000018"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-28T11:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c3"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Chất lượng tốt so với giá, giao hàng nhanh.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300003a"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-24T03:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c4"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300000b"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-26T20:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c5"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Sản phẩm bình thường, không có gì nổi bật.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000003a"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-24T02:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000c8"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Hoạt động êm, đúng công suất.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000029"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-21T23:55:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d3"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Hàng đúng mô tả, dùng rất ưng.",
+  "sanPhamIdDG": {
+    "$oid": "6acddc6139df426378b1f894"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a3e3f905d2f9b7e41000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-10T20:24:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d8"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Dùng tốt, kết nối ổn định.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e41000026"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8813907a1c3e5d90000015"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-16T15:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000d9"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Tạm được, tương xứng với giá tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e41000018"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8813907a1c3e5d90000015"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-14T19:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000de"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Chất lượng đáng tiền, đóng gói kỹ.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000028"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-07T14:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000df"
+  },
+  "soSao": 3,
+  "noiDungDanhGia": "Tạm được, tương xứng với giá tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000044"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-06T07:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e2"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Sản phẩm đẹp, hoạt động ổn định.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000020"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-03T20:01:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e3"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Chất lượng tốt so với giá, giao hàng nhanh.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000004d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a3cee105d2f9b7e41000001"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-03T23:01:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e6"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Chất lượng đáng tiền, đóng gói kỹ.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300002a"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ad096109c4e2a6f13000007"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-01T18:08:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000e7"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000002d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ad096109c4e2a6f13000007"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-29T23:08:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ea"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Dùng tốt, kết nối ổn định.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e41000026"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a914e107a1c3e5d9000001c"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-26T12:31:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000ed"
+  },
+  "soSao": 2,
+  "noiDungDanhGia": "Hơi thất vọng, chất lượng chưa như mong đợi.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000028"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-22T21:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f2"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Hàng đúng mô tả, dùng rất ưng.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300001e"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8d59907a1c3e5d90000019"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-31T11:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000f5"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Dùng bền, đúng mô tả.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000040"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acca1909c4e2a6f13000004"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-07T22:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000fa"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Form đẹp, màu đúng ảnh.",
+  "sanPhamIdDG": {
+    "$oid": "6acddc6139df426378b1f894"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acb50109c4e2a6f13000003"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-09-20T18:19:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f130000fd"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000015"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a40e2905d2f9b7e41000004"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-26T23:58:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000108"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Sản phẩm đẹp, hoạt động ổn định.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e4100001c"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ad096109c4e2a6f13000007"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-08-28T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300010b"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Vải mềm mát, mặc vừa vặn.",
+  "sanPhamIdDG": {
+    "$oid": "6a44d7105d2f9b7e4100001f"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-02T00:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000110"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Chất lượng tốt so với giá, giao hàng nhanh.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000003d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-25T15:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000111"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000002a"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-22T15:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000114"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Hàng đúng mô tả, dùng rất ưng.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000057"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-30T21:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000115"
+  },
+  "soSao": 2,
+  "noiDungDanhGia": "Hơi thất vọng, chất lượng chưa như mong đợi.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300003d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac9fe909c4e2a6f13000002"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-30T20:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300011c"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000039"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-12T20:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f1300011d"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Nhỏ gọn, tiện lợi, đáng tiền.",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d9000005b"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6acddc6139df426378b1f880"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-15T19:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000122"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Đóng gói cẩn thận, sẽ ủng hộ tiếp.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f13000035"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-07T00:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aeee8909c4e2a6f13000123"
+  },
+  "soSao": 4,
+  "noiDungDanhGia": "Sản phẩm ổn, đúng như hình.",
+  "sanPhamIdDG": {
+    "$oid": "6aed97109c4e2a6f1300003d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6a8eab107a1c3e5d9000001a"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-10-11T22:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af16787e109a70e188afa8d"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "San pham dung on",
+  "sanPhamIdDG": {
+    "$oid": "6addc5107a1c3e5d90000054"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-09T06:26:15.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af16a02e109a70e188afcc9"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Do choi kha vui va dep",
+  "sanPhamIdDG": {
+    "$oid": "6af168abe109a70e188afb8b"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-09T06:36:50.316Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af17012dd66626e0e6abff8"
+  },
+  "soSao": 5,
+  "noiDungDanhGia": "Do choi rat dep",
+  "sanPhamIdDG": {
+    "$oid": "6af16fb6dd66626e0e6abf6d"
+  },
+  "nguoiDungIdDG": {
+    "$oid": "6ac8ad109c4e2a6f13000001"
+  },
+  "donHangIdDG": {
+    "$oid": "6af16ff0dd66626e0e6abfa5"
+  },
+  "ngayDanhGia": {
+    "$date": "2026-11-09T07:02:42.543Z"
+  }
+}]

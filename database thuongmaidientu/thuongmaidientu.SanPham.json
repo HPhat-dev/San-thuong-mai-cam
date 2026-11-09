@@ -1,0 +1,1431 @@
+[{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f893"
+  },
+  "tenSanPham": "Áo thun cotton basic",
+  "moTaSanPham": "Cotton 100%, form rộng, nhiều màu",
+  "giaSanPham": 150000,
+  "soLuongTon": 150,
+  "hinhAnhSanPham": [
+    "/uploads/1794217839320-35872.jpg",
+    "/uploads/1794217839320-427204.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f894"
+  },
+  "tenSanPham": "Quần jean nam slim",
+  "moTaSanPham": "Vải jean co giãn nhẹ, dáng slim",
+  "giaSanPham": 380000,
+  "soLuongTon": 70,
+  "hinhAnhSanPham": [
+    "/uploads/1794217780475-908797.jpg",
+    "/uploads/1794217780476-342335.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f895"
+  },
+  "tenSanPham": "Váy midi hoa nhí",
+  "moTaSanPham": "Chất voan nhẹ, dáng chữ A",
+  "giaSanPham": 290000,
+  "soLuongTon": 60,
+  "hinhAnhSanPham": [
+    "/uploads/1794217731882-644986.jpg",
+    "/uploads/1794217731884-73411.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f896"
+  },
+  "tenSanPham": "Giày thể thao nhẹ",
+  "moTaSanPham": "Đế êm, thoáng khí, phù hợp đi học và đi làm",
+  "giaSanPham": 520000,
+  "soLuongTon": 45,
+  "hinhAnhSanPham": [
+    "/uploads/1794217620104-590076.jpg",
+    "/uploads/1794217620105-346727.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f897"
+  },
+  "tenSanPham": "Nồi chiên không dầu 5L",
+  "moTaSanPham": "Công suất 1500W, 8 chế độ nấu",
+  "giaSanPham": 1350000,
+  "soLuongTon": 30,
+  "hinhAnhSanPham": [
+    "/uploads/1794218623982-116219.jpg",
+    "/uploads/1794218623982-452134.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f898"
+  },
+  "tenSanPham": "Bình đun siêu tốc 1.8L",
+  "moTaSanPham": "Inox 304, tự ngắt khi sôi",
+  "giaSanPham": 250000,
+  "soLuongTon": 55,
+  "hinhAnhSanPham": [
+    "/uploads/1794218402493-363231.jpg",
+    "/uploads/1794218402493-58176.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f899"
+  },
+  "tenSanPham": "Bộ chăn ga gối cotton",
+  "moTaSanPham": "Bộ 4 món, cotton mềm mát",
+  "giaSanPham": 690000,
+  "soLuongTon": 40,
+  "hinhAnhSanPham": [
+    "/uploads/1794218311678-275669.jpg",
+    "/uploads/1794218311678-344695.jpg",
+    "/uploads/1794218311678-509804.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acddc6139df426378b1f89a"
+  },
+  "tenSanPham": "Máy xay sinh tố mini",
+  "moTaSanPham": "Dung tích 600ml, 2 lưỡi dao",
+  "giaSanPham": 420000,
+  "soLuongTon": 0,
+  "hinhAnhSanPham": [
+    "/uploads/1794218221447-421075.jpg",
+    "/uploads/1794218221448-14672.jpg"
+  ],
+  "trangThaiSanPham": "ngungban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000009"
+  },
+  "tenSanPham": "Máy ép trái cây chậm",
+  "moTaSanPham": "Máy ép chậm giữ trọn vị trái cây, ít bọt, dễ vệ sinh.\r\nCông suất: 150W\r\nTốc độ: 60 vòng/phút\r\nDung tích cốc: 400 ml\r\nChất liệu: Nhựa Tritan không BPA\r\nBảo hành: 12 tháng",
+  "giaSanPham": 1390000,
+  "soLuongTon": 15,
+  "hinhAnhSanPham": [
+    "/uploads/1794218167157-197012.jpg",
+    "/uploads/1794218167159-340566.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300000a"
+  },
+  "tenSanPham": "Pin dự phòng không dây 15.000mAh",
+  "moTaSanPham": "Sạc dự phòng hỗ trợ sạc không dây và sạc nhanh có dây, màn hình hiển thị phần trăm pin.\r\nThương hiệu: PowerGo\r\nDung lượng: 15.000mAh\r\nCổng ra: USB-C PD 22.5W, USB-A, sạc không dây 10W\r\nHiển thị: Màn hình LED phần trăm pin\r\nTrọng lượng: 320 g\r\nBảo hành: 12 tháng",
+  "giaSanPham": 520000,
+  "soLuongTon": 35,
+  "hinhAnhSanPham": [
+    "/uploads/1794216940960-259896.jpg",
+    "/uploads/1794216940960-280807.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300000b"
+  },
+  "tenSanPham": "Cáp sạc Lightning 1m MFi",
+  "moTaSanPham": "Cáp Lightning chuẩn MFi, sạc ổn định và truyền dữ liệu nhanh, vỏ bện chống đứt.\nChiều dài: 1 m\nChuẩn: MFi\nCông suất tối đa: 27W (khi dùng với củ sạc PD)\nChất liệu: Dây bện nylon\nBảo hành: 12 tháng",
+  "giaSanPham": 99000,
+  "soLuongTon": 250,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=C%C3%A1p%20s%E1%BA%A1c%20Lightning%201m%20MFi",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=C%C3%A1p%20s%E1%BA%A1c%20Lightning%201m%20MFi%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=C%C3%A1p%20s%E1%BA%A1c%20Lightning%201m%20MFi%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300000c"
+  },
+  "tenSanPham": "Webcam Full HD 1080p có micro",
+  "moTaSanPham": "Webcam cho học online và họp trực tuyến, tự cân bằng sáng, micro khử ồn tích hợp.\r\nĐộ phân giải: Full HD 1080p 30fps\r\nGóc nhìn: 90°\r\nMicro: Khử ồn, tích hợp\r\nKết nối: USB-A, cắm là chạy\r\nBảo hành: 12 tháng",
+  "giaSanPham": 450000,
+  "soLuongTon": 40,
+  "hinhAnhSanPham": [
+    "/uploads/1794216875395-797135.jpg",
+    "/uploads/1794216875395-425598.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300000d"
+  },
+  "tenSanPham": "Laptop Ultra Light 14 inch",
+  "moTaSanPham": "Siêu nhẹ chỉ 990g, vỏ magie, pin dùng cả ngày, hợp người hay di chuyển.\r\nThương hiệu: Ultra\r\nCPU: Octa-core 3.8GHz\r\nRAM: 16GB\r\nỔ cứng: SSD 1TB\r\nMàn hình: 14 inch 2.8K OLED\r\nTrọng lượng: 0.99 kg\r\nPin: 65Wh, dùng khoảng 14 giờ\r\nBảo hành: 24 tháng",
+  "giaSanPham": 18900000,
+  "soLuongTon": 6,
+  "hinhAnhSanPham": [
+    "/uploads/1794216796513-924768.jpeg",
+    "/uploads/1794216796514-948298.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f888"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300000e"
+  },
+  "tenSanPham": "Máy xay thịt mini 2L",
+  "moTaSanPham": "Máy xay thịt, rau củ, tỏi ớt công suất 300W, cối thủy tinh 2 lít.\nCông suất: 300W\nDung tích cối: 2 L, thủy tinh\nLưỡi dao: Inox 4 cánh\nTốc độ: 1 mức\nBảo hành: 12 tháng",
+  "giaSanPham": 480000,
+  "soLuongTon": 34,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/10b981/ffffff?text=M%C3%A1y%20xay%20th%E1%BB%8Bt%20mini%202L",
+    "https://placehold.co/600x400/059669/ffffff?text=M%C3%A1y%20xay%20th%E1%BB%8Bt%20mini%202L%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/34d399/ffffff?text=M%C3%A1y%20xay%20th%E1%BB%8Bt%20mini%202L%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300000f"
+  },
+  "tenSanPham": "Node.js và Express từ cơ bản đến nâng cao",
+  "moTaSanPham": "Xây dựng REST API với Node.js, Express và MongoDB qua dự án bán hàng hoàn chỉnh.\nTác giả: Nguyễn Hoàng Long\nNhà xuất bản: NXB Tri Thức\nSố trang: 420\nKhổ sách: 16 x 24 cm\nNgôn ngữ: Tiếng Việt\nNăm xuất bản: 2026",
+  "giaSanPham": 195000,
+  "soLuongTon": 65,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f59e0b/ffffff?text=Node.js%20v%C3%A0%20Express%20t%E1%BB%AB%20c%C6%A1%20b%E1%BA%A3n%20%C4%91%E1%BA%BFn%20n%C3%A2ng%20cao",
+    "https://placehold.co/600x400/d97706/ffffff?text=Node.js%20v%C3%A0%20Express%20t%E1%BB%AB%20c%C6%A1%20b%E1%BA%A3n%20%C4%91%E1%BA%BFn%20n%C3%A2ng%20cao%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fbbf24/ffffff?text=Node.js%20v%C3%A0%20Express%20t%E1%BB%AB%20c%C6%A1%20b%E1%BA%A3n%20%C4%91%E1%BA%BFn%20n%C3%A2ng%20cao%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000010"
+  },
+  "tenSanPham": "Bộ nồi chảo chống dính 3 món",
+  "moTaSanPham": "Bộ 3 món gồm chảo, nồi và xửng hấp, phủ chống dính vân đá.\r\nSố lượng: 3 món (chảo 24cm, nồi 20cm, xửng)\r\nLớp phủ: Chống dính vân đá\r\nTương thích: Bếp từ, bếp gas\r\nTay cầm: Chống nóng\r\nBảo hành: 12 tháng",
+  "giaSanPham": 890000,
+  "soLuongTon": 28,
+  "hinhAnhSanPham": [
+    "/uploads/1794218106422-265637.jpg",
+    "/uploads/1794218106422-918391.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000011"
+  },
+  "tenSanPham": "Sữa tắm thảo mộc 500ml",
+  "moTaSanPham": "Sữa tắm chiết xuất sả và bưởi, tạo bọt mịn, hương thảo mộc dễ chịu.\nThương hiệu: Mộc\nDung tích: 500 ml\nThành phần chính: Sả, vỏ bưởi, glycerin\nPhù hợp: Mọi loại da\nHạn sử dụng: 36 tháng kể từ ngày sản xuất\nXuất xứ: Việt Nam",
+  "giaSanPham": 145000,
+  "soLuongTon": 90,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f43f5e/ffffff?text=S%E1%BB%AFa%20t%E1%BA%AFm%20th%E1%BA%A3o%20m%E1%BB%99c%20500ml",
+    "https://placehold.co/600x400/e11d48/ffffff?text=S%E1%BB%AFa%20t%E1%BA%AFm%20th%E1%BA%A3o%20m%E1%BB%99c%20500ml%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fb7185/ffffff?text=S%E1%BB%AFa%20t%E1%BA%AFm%20th%E1%BA%A3o%20m%E1%BB%99c%20500ml%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000012"
+  },
+  "tenSanPham": "Chăn ủ cotton cho bé",
+  "moTaSanPham": "Chăn ủ cotton mềm thoáng, họa tiết dễ thương, quấn bé hoặc đắp khi ngủ.\nChất liệu: Cotton 100%\nKích thước: 90 x 90 cm\nĐộ tuổi phù hợp: Từ sơ sinh\nHướng dẫn giặt: Giặt máy chế độ nhẹ",
+  "giaSanPham": 220000,
+  "soLuongTon": 70,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/fb923c/ffffff?text=Ch%C4%83n%20%E1%BB%A7%20cotton%20cho%20b%C3%A9",
+    "https://placehold.co/600x400/ea580c/ffffff?text=Ch%C4%83n%20%E1%BB%A7%20cotton%20cho%20b%C3%A9%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fdba74/ffffff?text=Ch%C4%83n%20%E1%BB%A7%20cotton%20cho%20b%C3%A9%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000013"
+  },
+  "tenSanPham": "Áo croptop thun gân",
+  "moTaSanPham": "Áo croptop thun gân ôm vừa vặn, trẻ trung năng động.\r\nChất liệu: Thun gân\r\nKiểu dáng: Croptop ôm\r\nMàu sắc: Trắng, Đen, Hồng\r\nKích cỡ: S - L\r\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 120000,
+  "soLuongTon": 100,
+  "hinhAnhSanPham": [
+    "/uploads/1794217571523-924186.jpg",
+    "/uploads/1794217571523-63859.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000014"
+  },
+  "tenSanPham": "Chuột gaming có dây 7 nút",
+  "moTaSanPham": "Chuột gaming 7 nút lập trình được, đèn LED nhiều chế độ, cảm biến chính xác.\nKết nối: Có dây USB, dây dài 1.8 m\nĐộ nhạy: Tối đa 7200 DPI\nSố nút: 7 nút lập trình\nĐèn: LED RGB\nBảo hành: 12 tháng",
+  "giaSanPham": 250000,
+  "soLuongTon": 70,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=Chu%E1%BB%99t%20gaming%20c%C3%B3%20d%C3%A2y%207%20n%C3%BAt",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=Chu%E1%BB%99t%20gaming%20c%C3%B3%20d%C3%A2y%207%20n%C3%BAt%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=Chu%E1%BB%99t%20gaming%20c%C3%B3%20d%C3%A2y%207%20n%C3%BAt%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000015"
+  },
+  "tenSanPham": "Áo sơ mi nữ cổ tròn",
+  "moTaSanPham": "Sơ mi nữ cổ tròn nhẹ nhàng, chất vải thoáng, phối được với chân váy và quần tây.\r\nChất liệu: Cotton lụa\r\nKiểu dáng: Dáng suông, cổ tròn\r\nMàu sắc: Trắng, Xanh pastel\r\nKích cỡ: S - XL\r\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 260000,
+  "soLuongTon": 70,
+  "hinhAnhSanPham": [
+    "/uploads/1794217460388-750160.jpg",
+    "/uploads/1794217460388-185135.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000016"
+  },
+  "tenSanPham": "Áo thun polo nữ cotton",
+  "moTaSanPham": "Polo nữ cotton mềm, cổ bẻ gọn, phù hợp đồng phục hoặc đi chơi.\nChất liệu: Cotton cá sấu\nKiểu dáng: Regular, cổ bẻ\nMàu sắc: Trắng, Hồng nhạt, Xanh navy\nKích cỡ: S - XL\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\nXuất xứ: Việt Nam",
+  "giaSanPham": 210000,
+  "soLuongTon": 90,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/ec4899/ffffff?text=%C3%81o%20thun%20polo%20n%E1%BB%AF%20cotton",
+    "https://placehold.co/600x400/db2777/ffffff?text=%C3%81o%20thun%20polo%20n%E1%BB%AF%20cotton%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/f472b6/ffffff?text=%C3%81o%20thun%20polo%20n%E1%BB%AF%20cotton%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000017"
+  },
+  "tenSanPham": "Loa Bluetooth chống nước Wave W3",
+  "moTaSanPham": "Loa di động chống nước, âm thanh vang rõ, kèm dây đeo móc balo.\nThương hiệu: SoundMax\nKết nối: Bluetooth 5.3\nCông suất: 20W\nThời lượng pin: 15 giờ\nChống nước: IPX7\nBảo hành: 12 tháng",
+  "giaSanPham": 590000,
+  "soLuongTon": 55,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=Loa%20Bluetooth%20ch%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%20Wave%20W3",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=Loa%20Bluetooth%20ch%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%20Wave%20W3%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=Loa%20Bluetooth%20ch%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%20Wave%20W3%20-%20Chi%20ti%E1%BA%BFt",
+    "https://placehold.co/600x400/6d28d9/ffffff?text=Loa%20Bluetooth%20ch%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%20Wave%20W3%20-%20%C4%90%E1%BA%A7y%20%C4%91%E1%BB%A7%20ph%E1%BB%A5%20ki%E1%BB%87n"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000018"
+  },
+  "tenSanPham": "MongoDB cho người mới bắt đầu",
+  "moTaSanPham": "Từ khái niệm document, collection đến truy vấn, index và thiết kế dữ liệu.\nTác giả: Phạm Thu Hương\nNhà xuất bản: NXB Tri Thức\nSố trang: 330\nKhổ sách: 16 x 24 cm\nNgôn ngữ: Tiếng Việt\nNăm xuất bản: 2025",
+  "giaSanPham": 165000,
+  "soLuongTon": 80,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f59e0b/ffffff?text=MongoDB%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u",
+    "https://placehold.co/600x400/d97706/ffffff?text=MongoDB%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fbbf24/ffffff?text=MongoDB%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000019"
+  },
+  "tenSanPham": "iPhone 15 Pro Max 256GB",
+  "moTaSanPham": "Thương hiệu: Apple\r\nMàn hình: 6.7 inches\r\nChip xử lý: CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi hiệu suất\r\nRAM / Bộ nhớ: 8GB / 256GB\r\nPin: 4422mAh\r\nCamera sau: Camera chính: 48MP, 24 mm, ƒ/1.78\r\nCamera góc siêu rộng: 12 MP, 13 mm, ƒ/2.2\r\nCamera Tele: 12 MP\r\nBảo hành: 12 tháng",
+  "giaSanPham": 24990000,
+  "soLuongTon": 45,
+  "hinhAnhSanPham": [
+    "/uploads/1794216697061-588354.jpg",
+    "/uploads/1794216697062-220273.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f887"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300001a"
+  },
+  "tenSanPham": "Giá treo quần áo thông minh",
+  "moTaSanPham": "Giá phơi đồ gấp gọn trong nhà, chịu lực tốt, có bánh xe di chuyển.\r\nChất liệu: Thép sơn tĩnh điện\r\nTải trọng: Đến 25 kg\r\nKích thước mở: 160 x 55 x 150 cm\r\nTính năng: Gấp gọn, có bánh xe\r\nBảo hành: 6 tháng",
+  "giaSanPham": 260000,
+  "soLuongTon": 3,
+  "hinhAnhSanPham": [
+    "/uploads/1794218066128-253545.jpg",
+    "/uploads/1794218066130-179329.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300001b"
+  },
+  "tenSanPham": "Đế sạc không dây 15W",
+  "moTaSanPham": "Đế sạc không dây mỏng, có đèn báo, tương thích nhiều dòng điện thoại hỗ trợ chuẩn Qi.\r\nCông suất: 15W tối đa\r\nChuẩn: Qi\r\nĐầu vào: USB-C\r\nTính năng: Đèn LED báo trạng thái, chống trượt\r\nBảo hành: 12 tháng",
+  "giaSanPham": 240000,
+  "soLuongTon": 1,
+  "hinhAnhSanPham": [
+    "/uploads/1794216350750-10027.jpg",
+    "/uploads/1794216350750-192418.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300001c"
+  },
+  "tenSanPham": "Bộ muỗng ăn dặm silicone 4 món",
+  "moTaSanPham": "Bộ 4 muỗng silicone mềm, đầu muỗng nhỏ êm miệng bé, dễ vệ sinh.\nChất liệu: Silicone mềm không BPA\nSố lượng: 4 muỗng\nĐộ tuổi phù hợp: Từ 6 tháng\nVệ sinh: Rửa máy hoặc chần nước sôi",
+  "giaSanPham": 110000,
+  "soLuongTon": 95,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/fb923c/ffffff?text=B%E1%BB%99%20mu%E1%BB%97ng%20%C4%83n%20d%E1%BA%B7m%20silicone%204%20m%C3%B3n",
+    "https://placehold.co/600x400/ea580c/ffffff?text=B%E1%BB%99%20mu%E1%BB%97ng%20%C4%83n%20d%E1%BA%B7m%20silicone%204%20m%C3%B3n%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fdba74/ffffff?text=B%E1%BB%99%20mu%E1%BB%97ng%20%C4%83n%20d%E1%BA%B7m%20silicone%204%20m%C3%B3n%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300001d"
+  },
+  "tenSanPham": "Ổ cắm điện thông minh Wi-Fi",
+  "moTaSanPham": "Điều khiển bật tắt thiết bị qua điện thoại, hẹn giờ và theo dõi điện năng tiêu thụ.\nKết nối: Wi-Fi 2.4GHz\nCông suất tối đa: 16A, 3680W\nTính năng: Hẹn giờ, đo điện năng\nĐiều khiển: Ứng dụng trên điện thoại\nBảo hành: 12 tháng",
+  "giaSanPham": 180000,
+  "soLuongTon": 4,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=%E1%BB%94%20c%E1%BA%AFm%20%C4%91i%E1%BB%87n%20th%C3%B4ng%20minh%20Wi-Fi",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=%E1%BB%94%20c%E1%BA%AFm%20%C4%91i%E1%BB%87n%20th%C3%B4ng%20minh%20Wi-Fi%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=%E1%BB%94%20c%E1%BA%AFm%20%C4%91i%E1%BB%87n%20th%C3%B4ng%20minh%20Wi-Fi%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300001e"
+  },
+  "tenSanPham": "Bộ sách vải cho bé 6 cuốn",
+  "moTaSanPham": "Sách vải mềm an toàn, có tiếng sột soạt giúp bé tập nhận biết hình ảnh.\nChất liệu: Vải cotton mềm\nSố lượng: 6 cuốn\nĐộ tuổi phù hợp: Từ 3 tháng\nHướng dẫn: Giặt tay nhẹ",
+  "giaSanPham": 180000,
+  "soLuongTon": 60,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/fb923c/ffffff?text=B%E1%BB%99%20s%C3%A1ch%20v%E1%BA%A3i%20cho%20b%C3%A9%206%20cu%E1%BB%91n",
+    "https://placehold.co/600x400/ea580c/ffffff?text=B%E1%BB%99%20s%C3%A1ch%20v%E1%BA%A3i%20cho%20b%C3%A9%206%20cu%E1%BB%91n%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fdba74/ffffff?text=B%E1%BB%99%20s%C3%A1ch%20v%E1%BA%A3i%20cho%20b%C3%A9%206%20cu%E1%BB%91n%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300001f"
+  },
+  "tenSanPham": "Balo thể thao chống nước 20L",
+  "moTaSanPham": "Balo 20 lít chống nước, ngăn giày riêng, đệm lưng thoáng khí.\nDung tích: 20 L\nChất liệu: Polyester chống nước\nTính năng: Ngăn giày riêng, đệm lưng thoáng\nBảo hành: 6 tháng",
+  "giaSanPham": 320000,
+  "soLuongTon": 48,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/14b8a6/ffffff?text=Balo%20th%E1%BB%83%20thao%20ch%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%2020L",
+    "https://placehold.co/600x400/0d9488/ffffff?text=Balo%20th%E1%BB%83%20thao%20ch%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%2020L%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/2dd4bf/ffffff?text=Balo%20th%E1%BB%83%20thao%20ch%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%2020L%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000020"
+  },
+  "tenSanPham": "Điện thoại ZTE Nubia S2 5G (6GB/128GB)",
+  "moTaSanPham": "Điện thoại 5G tầm trung, màn hình AMOLED 120Hz, camera chống rung quang học.\r\nThương hiệu: Aura\r\nMàn hình: 6.6 inch AMOLED 120Hz\r\nChip xử lý: Octa-core 2.8GHz, hỗ trợ 5G\r\nRAM / Bộ nhớ: 6GB / 128GB\r\nPin: 5000mAh, sạc nhanh 67W\r\nCamera sau: 50MP OIS + 8MP\r\nBảo hành: 12 tháng\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 7490000,
+  "soLuongTon": 25,
+  "hinhAnhSanPham": [
+    "/uploads/1794216167909-332985.jpg",
+    "/uploads/1794216167909-803127.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f887"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000021"
+  },
+  "tenSanPham": "Xe tập đi cho bé có nhạc",
+  "moTaSanPham": "Xe tập đi có khay chơi và nhạc vui nhộn, bánh xe chống lật.\nChất liệu: Nhựa ABS an toàn\nĐộ tuổi phù hợp: 6 - 24 tháng\nTính năng: Khay đồ chơi có nhạc, bánh chống lật\nTải trọng: Đến 12 kg",
+  "giaSanPham": 450000,
+  "soLuongTon": 22,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/fb923c/ffffff?text=Xe%20t%E1%BA%ADp%20%C4%91i%20cho%20b%C3%A9%20c%C3%B3%20nh%E1%BA%A1c",
+    "https://placehold.co/600x400/ea580c/ffffff?text=Xe%20t%E1%BA%ADp%20%C4%91i%20cho%20b%C3%A9%20c%C3%B3%20nh%E1%BA%A1c%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fdba74/ffffff?text=Xe%20t%E1%BA%ADp%20%C4%91i%20cho%20b%C3%A9%20c%C3%B3%20nh%E1%BA%A1c%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000004"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000022"
+  },
+  "tenSanPham": "Toner cân bằng da 200ml",
+  "moTaSanPham": "Toner dịu nhẹ giúp làm sạch sâu và cân bằng độ ẩm sau khi rửa mặt.\nThương hiệu: Mộc\nDung tích: 200 ml\nThành phần chính: Chiết xuất diếp cá, hyaluronic acid\nPhù hợp: Da dầu, da hỗn hợp\nHạn sử dụng: 36 tháng kể từ ngày sản xuất\nXuất xứ: Việt Nam",
+  "giaSanPham": 180000,
+  "soLuongTon": 75,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f43f5e/ffffff?text=Toner%20c%C3%A2n%20b%E1%BA%B1ng%20da%20200ml",
+    "https://placehold.co/600x400/e11d48/ffffff?text=Toner%20c%C3%A2n%20b%E1%BA%B1ng%20da%20200ml%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fb7185/ffffff?text=Toner%20c%C3%A2n%20b%E1%BA%B1ng%20da%20200ml%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000023"
+  },
+  "tenSanPham": "Ca đựng nước thủy tinh có nắp 1L",
+  "moTaSanPham": "Ca thủy tinh 1 lít có nắp và tay cầm, dùng đựng nước, trà hoặc nước ép.\r\nDung tích: 1 L\r\nChất liệu: Thủy tinh borosilicate\r\nNắp: Silicone kín\r\nDùng được: Tủ lạnh, nước nóng đến 100°C\r\nBảo hành: 3 tháng",
+  "giaSanPham": 120000,
+  "soLuongTon": 85,
+  "hinhAnhSanPham": [
+    "/uploads/1794218011702-517512.jpg",
+    "/uploads/1794218011703-105983.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000024"
+  },
+  "tenSanPham": "React thực hành qua dự án nhỏ",
+  "moTaSanPham": "Học React qua 6 dự án nhỏ: component, hook, router, gọi API và quản lý trạng thái.\nTác giả: Trần Quang Minh\nNhà xuất bản: NXB Tri Thức\nSố trang: 380\nKhổ sách: 16 x 24 cm\nNgôn ngữ: Tiếng Việt\nNăm xuất bản: 2026",
+  "giaSanPham": 189000,
+  "soLuongTon": 70,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f59e0b/ffffff?text=React%20th%E1%BB%B1c%20h%C3%A0nh%20qua%20d%E1%BB%B1%20%C3%A1n%20nh%E1%BB%8F",
+    "https://placehold.co/600x400/d97706/ffffff?text=React%20th%E1%BB%B1c%20h%C3%A0nh%20qua%20d%E1%BB%B1%20%C3%A1n%20nh%E1%BB%8F%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fbbf24/ffffff?text=React%20th%E1%BB%B1c%20h%C3%A0nh%20qua%20d%E1%BB%B1%20%C3%A1n%20nh%E1%BB%8F%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000025"
+  },
+  "tenSanPham": "Nồi lẩu điện đa năng 3L",
+  "moTaSanPham": "Nồi lẩu điện đa năng, nấu lẩu, hấp, xào, có tay cầm cách nhiệt.\r\nDung tích: 3 L\r\nCông suất: 1200W\r\nChất liệu lòng nồi: Chống dính\r\nChức năng: Lẩu, hấp, xào, nấu mì\r\nBảo hành: 12 tháng",
+  "giaSanPham": 450000,
+  "soLuongTon": 40,
+  "hinhAnhSanPham": [
+    "/uploads/1794217935015-867630.jpg",
+    "/uploads/1794217935016-139744.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f886"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000026"
+  },
+  "tenSanPham": "Quần short jean nữ",
+  "moTaSanPham": "Quần short jean nữ cạp cao, tôn dáng, gấu tua nhẹ.\r\nChất liệu: Denim cotton\r\nKiểu dáng: Short cạp cao\r\nMàu sắc: Xanh nhạt, Xanh đậm\r\nKích cỡ: S - XL\r\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 230000,
+  "soLuongTon": 80,
+  "hinhAnhSanPham": [
+    "/uploads/1794217385758-464105.jpeg",
+    "/uploads/1794217385760-740597.jpeg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000027"
+  },
+  "tenSanPham": "Giày sandal nam quai chéo",
+  "moTaSanPham": "Sandal nam quai chéo đế êm, chống trượt, đi làm và đi chơi đều hợp.\nChất liệu: Quai da PU, đế cao su\nKiểu dáng: Sandal quai chéo\nMàu sắc: Đen, Nâu\nKích cỡ: 39 - 44\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\nXuất xứ: Việt Nam",
+  "giaSanPham": 330000,
+  "soLuongTon": 50,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/ec4899/ffffff?text=Gi%C3%A0y%20sandal%20nam%20quai%20ch%C3%A9o",
+    "https://placehold.co/600x400/db2777/ffffff?text=Gi%C3%A0y%20sandal%20nam%20quai%20ch%C3%A9o%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/f472b6/ffffff?text=Gi%C3%A0y%20sandal%20nam%20quai%20ch%C3%A9o%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000028"
+  },
+  "tenSanPham": "Ví da nam mini",
+  "moTaSanPham": "Ví da nam mini nhiều ngăn, gọn gàng, bỏ vừa túi quần.\nChất liệu: Da bò thật\nKiểu dáng: Ví đứng mini\nMàu sắc: Đen, Nâu\nKích cỡ: 11 x 9 cm\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\nXuất xứ: Việt Nam",
+  "giaSanPham": 250000,
+  "soLuongTon": 75,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/ec4899/ffffff?text=V%C3%AD%20da%20nam%20mini",
+    "https://placehold.co/600x400/db2777/ffffff?text=V%C3%AD%20da%20nam%20mini%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/f472b6/ffffff?text=V%C3%AD%20da%20nam%20mini%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000029"
+  },
+  "tenSanPham": "Bộ chổi và hốt rác gấp gọn",
+  "moTaSanPham": "Bộ chổi hốt rác có cán dài, hốt rác không cần cúi, gấp gọn khi cất.\nChất liệu: Nhựa PP, lông chổi mềm\nCán: Kéo dài đến 80 cm\nTính năng: Hốt rác không cần cúi, gấp gọn\nBảo hành: 3 tháng",
+  "giaSanPham": 95000,
+  "soLuongTon": 150,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/10b981/ffffff?text=B%E1%BB%99%20ch%E1%BB%95i%20v%C3%A0%20h%E1%BB%91t%20r%C3%A1c%20g%E1%BA%A5p%20g%E1%BB%8Dn",
+    "https://placehold.co/600x400/059669/ffffff?text=B%E1%BB%99%20ch%E1%BB%95i%20v%C3%A0%20h%E1%BB%91t%20r%C3%A1c%20g%E1%BA%A5p%20g%E1%BB%8Dn%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/34d399/ffffff?text=B%E1%BB%99%20ch%E1%BB%95i%20v%C3%A0%20h%E1%BB%91t%20r%C3%A1c%20g%E1%BA%A5p%20g%E1%BB%8Dn%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300002a"
+  },
+  "tenSanPham": "Bóng rổ da số 7",
+  "moTaSanPham": "Bóng rổ da PU số 7, độ nảy tốt, bám tay cả trong nhà lẫn ngoài trời.\nKích cỡ: Số 7\nChất liệu: Da PU\nChu vi: 75 - 76 cm\nBảo hành: 3 tháng",
+  "giaSanPham": 350000,
+  "soLuongTon": 3,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/14b8a6/ffffff?text=B%C3%B3ng%20r%E1%BB%95%20da%20s%E1%BB%91%207",
+    "https://placehold.co/600x400/0d9488/ffffff?text=B%C3%B3ng%20r%E1%BB%95%20da%20s%E1%BB%91%207%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/2dd4bf/ffffff?text=B%C3%B3ng%20r%E1%BB%95%20da%20s%E1%BB%91%207%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300002b"
+  },
+  "tenSanPham": "Tẩy tế bào chết cơ thể muối biển 250g",
+  "moTaSanPham": "Muối biển kết hợp dầu dừa giúp da mịn màng, dùng 1-2 lần mỗi tuần.\nThương hiệu: Mộc\nDung tích: 250 g\nThành phần chính: Muối biển, dầu dừa\nPhù hợp: Mọi loại da\nHạn sử dụng: 24 tháng kể từ ngày sản xuất\nXuất xứ: Việt Nam",
+  "giaSanPham": 130000,
+  "soLuongTon": 60,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f43f5e/ffffff?text=T%E1%BA%A9y%20t%E1%BA%BF%20b%C3%A0o%20ch%E1%BA%BFt%20c%C6%A1%20th%E1%BB%83%20mu%E1%BB%91i%20bi%E1%BB%83n%20250g",
+    "https://placehold.co/600x400/e11d48/ffffff?text=T%E1%BA%A9y%20t%E1%BA%BF%20b%C3%A0o%20ch%E1%BA%BFt%20c%C6%A1%20th%E1%BB%83%20mu%E1%BB%91i%20bi%E1%BB%83n%20250g%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fb7185/ffffff?text=T%E1%BA%A9y%20t%E1%BA%BF%20b%C3%A0o%20ch%E1%BA%BFt%20c%C6%A1%20th%E1%BB%83%20mu%E1%BB%91i%20bi%E1%BB%83n%20250g%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300002c"
+  },
+  "tenSanPham": "Dàn loa vi tính 2.1 Bass Box",
+  "moTaSanPham": "Dàn loa 2.1 có loa trầm riêng, phù hợp xem phim và nghe nhạc ở bàn làm việc.\nThương hiệu: SoundMax\nKênh: 2.1 (2 loa vệ tinh và 1 loa trầm)\nCông suất: 40W RMS\nKết nối: Jack 3.5mm, Bluetooth 5.0\nĐiều khiển: Núm xoay âm lượng và bass\nBảo hành: 12 tháng",
+  "giaSanPham": 690000,
+  "soLuongTon": 30,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=D%C3%A0n%20loa%20vi%20t%C3%ADnh%202.1%20Bass%20Box",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=D%C3%A0n%20loa%20vi%20t%C3%ADnh%202.1%20Bass%20Box%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=D%C3%A0n%20loa%20vi%20t%C3%ADnh%202.1%20Bass%20Box%20-%20Chi%20ti%E1%BA%BFt",
+    "https://placehold.co/600x400/6d28d9/ffffff?text=D%C3%A0n%20loa%20vi%20t%C3%ADnh%202.1%20Bass%20Box%20-%20%C4%90%E1%BA%A7y%20%C4%91%E1%BB%A7%20ph%E1%BB%A5%20ki%E1%BB%87n"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300002d"
+  },
+  "tenSanPham": "Đầm body cổ vuông",
+  "moTaSanPham": "Đầm body ôm nhẹ cổ vuông, chất thun gân co giãn tốt.\r\nChất liệu: Thun gân\r\nKiểu dáng: Body, cổ vuông\r\nMàu sắc: Đen, Đỏ đô, Be\r\nKích cỡ: S - L\r\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 390000,
+  "soLuongTon": 30,
+  "hinhAnhSanPham": [
+    "/uploads/1794217335170-979475.jpg",
+    "/uploads/1794217335170-311497.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300002e"
+  },
+  "tenSanPham": "Tai nghe chụp tai không dây Studio S9",
+  "moTaSanPham": "Tai nghe chụp tai cao cấp, đệm tai da mềm, âm thanh chi tiết cho nhạc và làm việc.\nThương hiệu: SoundMax\nKết nối: Bluetooth 5.3, có dây 3.5mm\nDriver: 40mm\nChống ồn: Chủ động ANC\nThời lượng pin: 50 giờ\nBảo hành: 12 tháng",
+  "giaSanPham": 1190000,
+  "soLuongTon": 18,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=Tai%20nghe%20ch%E1%BB%A5p%20tai%20kh%C3%B4ng%20d%C3%A2y%20Studio%20S9",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=Tai%20nghe%20ch%E1%BB%A5p%20tai%20kh%C3%B4ng%20d%C3%A2y%20Studio%20S9%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=Tai%20nghe%20ch%E1%BB%A5p%20tai%20kh%C3%B4ng%20d%C3%A2y%20Studio%20S9%20-%20Chi%20ti%E1%BA%BFt",
+    "https://placehold.co/600x400/6d28d9/ffffff?text=Tai%20nghe%20ch%E1%BB%A5p%20tai%20kh%C3%B4ng%20d%C3%A2y%20Studio%20S9%20-%20%C4%90%E1%BA%A7y%20%C4%91%E1%BB%A7%20ph%E1%BB%A5%20ki%E1%BB%87n"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300002f"
+  },
+  "tenSanPham": "Quần tây nữ ống suông",
+  "moTaSanPham": "Quần tây ống suông cạp cao, đứng form, mặc đi làm thoải mái cả ngày.\r\nChất liệu: Vải tuyết mưa co giãn\r\nKiểu dáng: Ống suông, cạp cao\r\nMàu sắc: Đen, Be, Xám\r\nKích cỡ: S - XL\r\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 340000,
+  "soLuongTon": 55,
+  "hinhAnhSanPham": [
+    "/uploads/1794217253843-155396.jpg",
+    "/uploads/1794217253844-857364.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000030"
+  },
+  "tenSanPham": "Sổ tay kế hoạch tuần 2027",
+  "moTaSanPham": "Sổ kế hoạch tuần giấy dày, có trang mục tiêu năm và theo dõi thói quen.\nKhổ giấy: A5\nSố trang: 120 trang\nĐịnh lượng giấy: 100 gsm\nBìa: Cứng, có dây đàn hồi\nXuất xứ: Việt Nam",
+  "giaSanPham": 85000,
+  "soLuongTon": 160,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f59e0b/ffffff?text=S%E1%BB%95%20tay%20k%E1%BA%BF%20ho%E1%BA%A1ch%20tu%E1%BA%A7n%202027",
+    "https://placehold.co/600x400/d97706/ffffff?text=S%E1%BB%95%20tay%20k%E1%BA%BF%20ho%E1%BA%A1ch%20tu%E1%BA%A7n%202027%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fbbf24/ffffff?text=S%E1%BB%95%20tay%20k%E1%BA%BF%20ho%E1%BA%A1ch%20tu%E1%BA%A7n%202027%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000031"
+  },
+  "tenSanPham": "Áo khoác bomber unisex",
+  "moTaSanPham": "Bomber unisex hai lớp, bo tay gọn, phong cách đường phố.\nChất liệu: Vải dù, lót lưới\nKiểu dáng: Bomber\nMàu sắc: Đen, Xanh rêu, Be\nKích cỡ: M - XL\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\nXuất xứ: Việt Nam",
+  "giaSanPham": 520000,
+  "soLuongTon": 38,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/ec4899/ffffff?text=%C3%81o%20kho%C3%A1c%20bomber%20unisex",
+    "https://placehold.co/600x400/db2777/ffffff?text=%C3%81o%20kho%C3%A1c%20bomber%20unisex%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/f472b6/ffffff?text=%C3%81o%20kho%C3%A1c%20bomber%20unisex%20-%20Chi%20ti%E1%BA%BFt",
+    "https://placehold.co/600x400/be185d/ffffff?text=%C3%81o%20kho%C3%A1c%20bomber%20unisex%20-%20%C4%90%E1%BA%A7y%20%C4%91%E1%BB%A7%20ph%E1%BB%A5%20ki%E1%BB%87n"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000032"
+  },
+  "tenSanPham": "Dầu dưỡng tóc argan 100ml",
+  "moTaSanPham": "Dầu dưỡng giúp tóc mềm, giảm khô xơ, dùng cho tóc ẩm hoặc khô.\nThương hiệu: Mộc\nDung tích: 100 ml\nThành phần chính: Dầu argan, vitamin E\nPhù hợp: Tóc khô, tóc hư tổn\nHạn sử dụng: 24 tháng kể từ ngày sản xuất\nXuất xứ: Việt Nam",
+  "giaSanPham": 210000,
+  "soLuongTon": 55,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f43f5e/ffffff?text=D%E1%BA%A7u%20d%C6%B0%E1%BB%A1ng%20t%C3%B3c%20argan%20100ml",
+    "https://placehold.co/600x400/e11d48/ffffff?text=D%E1%BA%A7u%20d%C6%B0%E1%BB%A1ng%20t%C3%B3c%20argan%20100ml%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fb7185/ffffff?text=D%E1%BA%A7u%20d%C6%B0%E1%BB%A1ng%20t%C3%B3c%20argan%20100ml%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000033"
+  },
+  "tenSanPham": "Giày chạy bộ Sport Run đệm khí",
+  "moTaSanPham": "Giày chạy bộ đệm khí êm chân, thân giày lưới thoáng, đế bám đường tốt.\nChất liệu: Lưới dệt, đế cao su, đệm khí\nTrọng lượng: 260 g/chiếc\nMàu sắc: Xanh, Đen, Cam\nKích cỡ: 36 - 44\nBảo hành: 6 tháng",
+  "giaSanPham": 790000,
+  "soLuongTon": 36,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/14b8a6/ffffff?text=Gi%C3%A0y%20ch%E1%BA%A1y%20b%E1%BB%99%20Sport%20Run%20%C4%91%E1%BB%87m%20kh%C3%AD",
+    "https://placehold.co/600x400/0d9488/ffffff?text=Gi%C3%A0y%20ch%E1%BA%A1y%20b%E1%BB%99%20Sport%20Run%20%C4%91%E1%BB%87m%20kh%C3%AD%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/2dd4bf/ffffff?text=Gi%C3%A0y%20ch%E1%BA%A1y%20b%E1%BB%99%20Sport%20Run%20%C4%91%E1%BB%87m%20kh%C3%AD%20-%20Chi%20ti%E1%BA%BFt",
+    "https://placehold.co/600x400/0f766e/ffffff?text=Gi%C3%A0y%20ch%E1%BA%A1y%20b%E1%BB%99%20Sport%20Run%20%C4%91%E1%BB%87m%20kh%C3%AD%20-%20%C4%90%E1%BA%A7y%20%C4%91%E1%BB%A7%20ph%E1%BB%A5%20ki%E1%BB%87n"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000034"
+  },
+  "tenSanPham": "Dây kháng lực tập mông 3 mức",
+  "moTaSanPham": "Bộ 3 dây kháng lực vải, tập mông và chân tại nhà, không cuốn lông.\nSố lượng: 3 dây (nhẹ, vừa, nặng)\nChất liệu: Vải cotton co giãn\nKích thước: 50 x 8 cm\nBảo hành: 3 tháng",
+  "giaSanPham": 99000,
+  "soLuongTon": 120,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/14b8a6/ffffff?text=D%C3%A2y%20kh%C3%A1ng%20l%E1%BB%B1c%20t%E1%BA%ADp%20m%C3%B4ng%203%20m%E1%BB%A9c",
+    "https://placehold.co/600x400/0d9488/ffffff?text=D%C3%A2y%20kh%C3%A1ng%20l%E1%BB%B1c%20t%E1%BA%ADp%20m%C3%B4ng%203%20m%E1%BB%A9c%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/2dd4bf/ffffff?text=D%C3%A2y%20kh%C3%A1ng%20l%E1%BB%B1c%20t%E1%BA%ADp%20m%C3%B4ng%203%20m%E1%BB%A9c%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000035"
+  },
+  "tenSanPham": "Xịt khoáng dịu da 150ml",
+  "moTaSanPham": "Xịt khoáng cấp ẩm tức thì, dùng trong ngày hoặc sau khi tập luyện.\nThương hiệu: Mộc\nDung tích: 150 ml\nThành phần chính: Nước khoáng, chiết xuất lô hội\nPhù hợp: Da nhạy cảm\nHạn sử dụng: 36 tháng kể từ ngày sản xuất\nXuất xứ: Việt Nam",
+  "giaSanPham": 120000,
+  "soLuongTon": 3,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f43f5e/ffffff?text=X%E1%BB%8Bt%20kho%C3%A1ng%20d%E1%BB%8Bu%20da%20150ml",
+    "https://placehold.co/600x400/e11d48/ffffff?text=X%E1%BB%8Bt%20kho%C3%A1ng%20d%E1%BB%8Bu%20da%20150ml%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fb7185/ffffff?text=X%E1%BB%8Bt%20kho%C3%A1ng%20d%E1%BB%8Bu%20da%20150ml%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000036"
+  },
+  "tenSanPham": "Lò vi sóng 20L cơ",
+  "moTaSanPham": "Lò vi sóng 20 lít núm xoay cơ học, dễ dùng, đủ chức năng hâm và rã đông.\nDung tích: 20 L\nCông suất: 700W\nĐiều khiển: Núm xoay cơ\nChức năng: Hâm nóng, rã đông, nấu\nBảo hành: 12 tháng",
+  "giaSanPham": 1790000,
+  "soLuongTon": 9,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/10b981/ffffff?text=L%C3%B2%20vi%20s%C3%B3ng%2020L%20c%C6%A1",
+    "https://placehold.co/600x400/059669/ffffff?text=L%C3%B2%20vi%20s%C3%B3ng%2020L%20c%C6%A1%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/34d399/ffffff?text=L%C3%B2%20vi%20s%C3%B3ng%2020L%20c%C6%A1%20-%20Chi%20ti%E1%BA%BFt",
+    "https://placehold.co/600x400/047857/ffffff?text=L%C3%B2%20vi%20s%C3%B3ng%2020L%20c%C6%A1%20-%20%C4%90%E1%BA%A7y%20%C4%91%E1%BB%A7%20ph%E1%BB%A5%20ki%E1%BB%87n"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000037"
+  },
+  "tenSanPham": "Tai nghe Bluetooth Buds Lite",
+  "moTaSanPham": "Tai nghe true wireless nhỏ gọn, âm thanh cân bằng, pin đủ dùng cả ngày dài.\r\nThương hiệu: SoundMax\r\nKết nối: Bluetooth 5.3\r\nThời lượng pin: 6 giờ (kèm hộp 24 giờ)\r\nChống nước: IPX4\r\nBảo hành: 12 tháng\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 290000,
+  "soLuongTon": 120,
+  "hinhAnhSanPham": [
+    "/uploads/1794215986562-245636.jpg",
+    "/uploads/1794215986564-671424.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000038"
+  },
+  "tenSanPham": "Truyện thiếu nhi: Chú mèo và cánh đồng sao",
+  "moTaSanPham": "Truyện tranh nhẹ nhàng về chú mèo nhỏ đi tìm những vì sao, in màu, chữ lớn dễ đọc.\nTác giả: Hoàng Thu Thảo\nNhà xuất bản: NXB Tri Thức\nSố trang: 64\nKhổ sách: 16 x 24 cm\nNgôn ngữ: Tiếng Việt\nNăm xuất bản: 2024",
+  "giaSanPham": 69000,
+  "soLuongTon": 100,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f59e0b/ffffff?text=Truy%E1%BB%87n%20thi%E1%BA%BFu%20nhi%3A%20Ch%C3%BA%20m%C3%A8o%20v%C3%A0%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20sao",
+    "https://placehold.co/600x400/d97706/ffffff?text=Truy%E1%BB%87n%20thi%E1%BA%BFu%20nhi%3A%20Ch%C3%BA%20m%C3%A8o%20v%C3%A0%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20sao%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fbbf24/ffffff?text=Truy%E1%BB%87n%20thi%E1%BA%BFu%20nhi%3A%20Ch%C3%BA%20m%C3%A8o%20v%C3%A0%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20sao%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000039"
+  },
+  "tenSanPham": "Giá đỡ điện thoại để bàn xoay 360°",
+  "moTaSanPham": "Giá đỡ gập gọn, xoay 360°, dùng xem phim, học online hoặc livestream.\nChất liệu: Hợp kim nhôm\nTương thích: Điện thoại 4 - 7 inch\nĐiều chỉnh: Xoay 360°, gập gọn\nĐế: Chống trượt\nBảo hành: 3 tháng",
+  "giaSanPham": 79000,
+  "soLuongTon": 300,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=Gi%C3%A1%20%C4%91%E1%BB%A1%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20%C4%91%E1%BB%83%20b%C3%A0n%20xoay%20360%C2%B0",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=Gi%C3%A1%20%C4%91%E1%BB%A1%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20%C4%91%E1%BB%83%20b%C3%A0n%20xoay%20360%C2%B0%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=Gi%C3%A1%20%C4%91%E1%BB%A1%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20%C4%91%E1%BB%83%20b%C3%A0n%20xoay%20360%C2%B0%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300003a"
+  },
+  "tenSanPham": "Bàn di chuột cỡ lớn 80x30cm",
+  "moTaSanPham": "Bàn di chuột cỡ lớn che cả bàn phím, bề mặt vải mịn, đế cao su chống trượt.\nKích thước: 80 x 30 cm\nĐộ dày: 3 mm\nBề mặt: Vải mịn, may viền chống bung\nĐế: Cao su tự nhiên\nBảo hành: 3 tháng",
+  "giaSanPham": 120000,
+  "soLuongTon": 130,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=B%C3%A0n%20di%20chu%E1%BB%99t%20c%E1%BB%A1%20l%E1%BB%9Bn%2080x30cm",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=B%C3%A0n%20di%20chu%E1%BB%99t%20c%E1%BB%A1%20l%E1%BB%9Bn%2080x30cm%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=B%C3%A0n%20di%20chu%E1%BB%99t%20c%E1%BB%A1%20l%E1%BB%9Bn%2080x30cm%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300003b"
+  },
+  "tenSanPham": "Áo khoác cardigan len mỏng",
+  "moTaSanPham": "Cardigan len mỏng khoác ngoài, giữ ấm nhẹ, không xù lông.\r\nChất liệu: Len acrylic mềm\r\nKiểu dáng: Cardigan dáng rộng\r\nMàu sắc: Kem, Nâu, Xám\r\nKích cỡ: Freesize\r\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\r\nXuất xứ: Việt Nam",
+  "giaSanPham": 320000,
+  "soLuongTon": 45,
+  "hinhAnhSanPham": [
+    "/uploads/1794217161847-51345.jpg",
+    "/uploads/1794217161848-479160.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f885"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300003c"
+  },
+  "tenSanPham": "Khay đá viên silicone nắp đậy",
+  "moTaSanPham": "Khay đá silicone có nắp đậy, dễ lấy đá, dùng làm đá viên hoặc thạch.\nChất liệu: Silicone thực phẩm\nSố ô: 24 ô\nTính năng: Có nắp, chịu lạnh đến -40°C\nBảo hành: 3 tháng",
+  "giaSanPham": 59000,
+  "soLuongTon": 200,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/10b981/ffffff?text=Khay%20%C4%91%C3%A1%20vi%C3%AAn%20silicone%20n%E1%BA%AFp%20%C4%91%E1%BA%ADy",
+    "https://placehold.co/600x400/059669/ffffff?text=Khay%20%C4%91%C3%A1%20vi%C3%AAn%20silicone%20n%E1%BA%AFp%20%C4%91%E1%BA%ADy%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/34d399/ffffff?text=Khay%20%C4%91%C3%A1%20vi%C3%AAn%20silicone%20n%E1%BA%AFp%20%C4%91%E1%BA%ADy%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300003d"
+  },
+  "tenSanPham": "Kem tay dưỡng ẩm bơ hạt mỡ 50g",
+  "moTaSanPham": "Kem tay mềm mượt, thấm nhanh, không bết dính, dùng được nhiều lần trong ngày.\nThương hiệu: Mộc\nDung tích: 50 g\nThành phần chính: Bơ hạt mỡ, vitamin E\nPhù hợp: Da khô\nHạn sử dụng: 36 tháng kể từ ngày sản xuất\nXuất xứ: Việt Nam",
+  "giaSanPham": 95000,
+  "soLuongTon": 140,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f43f5e/ffffff?text=Kem%20tay%20d%C6%B0%E1%BB%A1ng%20%E1%BA%A9m%20b%C6%A1%20h%E1%BA%A1t%20m%E1%BB%A1%2050g",
+    "https://placehold.co/600x400/e11d48/ffffff?text=Kem%20tay%20d%C6%B0%E1%BB%A1ng%20%E1%BA%A9m%20b%C6%A1%20h%E1%BA%A1t%20m%E1%BB%A1%2050g%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fb7185/ffffff?text=Kem%20tay%20d%C6%B0%E1%BB%A1ng%20%E1%BA%A9m%20b%C6%A1%20h%E1%BA%A1t%20m%E1%BB%A1%2050g%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000002"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300003e"
+  },
+  "tenSanPham": "Tai nghe True Wireless T7 chống ồn",
+  "moTaSanPham": "Tai nghe true wireless có chống ồn chủ động, chế độ xuyên âm khi cần nghe xung quanh.\nThương hiệu: SoundMax\nKết nối: Bluetooth 5.3\nChống ồn: Chủ động ANC, có xuyên âm\nThời lượng pin: 7 giờ (kèm hộp 28 giờ)\nChống nước: IPX4\nBảo hành: 12 tháng",
+  "giaSanPham": 790000,
+  "soLuongTon": 40,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/8b5cf6/ffffff?text=Tai%20nghe%20True%20Wireless%20T7%20ch%E1%BB%91ng%20%E1%BB%93n",
+    "https://placehold.co/600x400/7c3aed/ffffff?text=Tai%20nghe%20True%20Wireless%20T7%20ch%E1%BB%91ng%20%E1%BB%93n%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/a78bfa/ffffff?text=Tai%20nghe%20True%20Wireless%20T7%20ch%E1%BB%91ng%20%E1%BB%93n%20-%20Chi%20ti%E1%BA%BFt",
+    "https://placehold.co/600x400/6d28d9/ffffff?text=Tai%20nghe%20True%20Wireless%20T7%20ch%E1%BB%91ng%20%E1%BB%93n%20-%20%C4%90%E1%BA%A7y%20%C4%91%E1%BB%A7%20ph%E1%BB%A5%20ki%E1%BB%87n"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f889"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f1300003f"
+  },
+  "tenSanPham": "Laptop Office Pro 15.6 inch",
+  "moTaSanPham": "Laptop văn phòng màn hình lớn, bàn phím số đầy đủ, hiệu năng ổn định cho công việc hằng ngày.\r\nThương hiệu: Office\r\nCPU: Hexa-core 4.2GHz\r\nRAM: 16GB\r\nỔ cứng: SSD 512GB\r\nMàn hình: 15.6 inch FHD IPS\r\nTrọng lượng: 1.7 kg\r\nPin: 50Wh\r\nBảo hành: 24 tháng",
+  "giaSanPham": 11990000,
+  "soLuongTon": 12,
+  "hinhAnhSanPham": [
+    "/uploads/1794215481148-623573.jpg",
+    "/uploads/1794215481150-992573.jpg",
+    "/uploads/1794215762553-548129.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f888"
+  },
+  "gianHangId": {
+    "$oid": "6acddc6139df426378b1f884"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000040"
+  },
+  "tenSanPham": "Bình nước thể thao 1L nắp bật",
+  "moTaSanPham": "Bình nước 1 lít có vạch chia thời gian uống, nắp bật một tay, không chứa BPA.\nDung tích: 1 L\nChất liệu: Nhựa Tritan không BPA\nTính năng: Vạch chia thời gian, nắp bật\nBảo hành: 3 tháng",
+  "giaSanPham": 130000,
+  "soLuongTon": 100,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/14b8a6/ffffff?text=B%C3%ACnh%20n%C6%B0%E1%BB%9Bc%20th%E1%BB%83%20thao%201L%20n%E1%BA%AFp%20b%E1%BA%ADt",
+    "https://placehold.co/600x400/0d9488/ffffff?text=B%C3%ACnh%20n%C6%B0%E1%BB%9Bc%20th%E1%BB%83%20thao%201L%20n%E1%BA%AFp%20b%E1%BA%ADt%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/2dd4bf/ffffff?text=B%C3%ACnh%20n%C6%B0%E1%BB%9Bc%20th%E1%BB%83%20thao%201L%20n%E1%BA%AFp%20b%E1%BA%ADt%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000003"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d90000012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000041"
+  },
+  "tenSanPham": "Mũ bucket vải dù",
+  "moTaSanPham": "Mũ bucket vải dù nhẹ, chống nắng, gấp gọn mang theo.\nChất liệu: Vải dù\nKiểu dáng: Bucket\nMàu sắc: Đen, Be, Xanh navy\nKích cỡ: Freesize\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\nXuất xứ: Việt Nam",
+  "giaSanPham": 110000,
+  "soLuongTon": 110,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/ec4899/ffffff?text=M%C5%A9%20bucket%20v%E1%BA%A3i%20d%C3%B9",
+    "https://placehold.co/600x400/db2777/ffffff?text=M%C5%A9%20bucket%20v%E1%BA%A3i%20d%C3%B9%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/f472b6/ffffff?text=M%C5%A9%20bucket%20v%E1%BA%A3i%20d%C3%B9%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000042"
+  },
+  "tenSanPham": "Quần jean nam slim fit",
+  "moTaSanPham": "Quần jean nam slim fit co giãn nhẹ, màu bền, mặc thoải mái.\nChất liệu: Denim co giãn\nKiểu dáng: Slim fit\nMàu sắc: Xanh đậm, Đen\nKích cỡ: 29 - 36\nHướng dẫn giặt: Giặt máy ở nhiệt độ thường\nXuất xứ: Việt Nam",
+  "giaSanPham": 420000,
+  "soLuongTon": 60,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/ec4899/ffffff?text=Qu%E1%BA%A7n%20jean%20nam%20slim%20fit",
+    "https://placehold.co/600x400/db2777/ffffff?text=Qu%E1%BA%A7n%20jean%20nam%20slim%20fit%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/f472b6/ffffff?text=Qu%E1%BA%A7n%20jean%20nam%20slim%20fit%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88a"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000043"
+  },
+  "tenSanPham": "Tiếng Anh cho lập trình viên",
+  "moTaSanPham": "Từ vựng, mẫu câu để đọc tài liệu kỹ thuật, viết commit và trao đổi công việc bằng tiếng Anh.\nTác giả: Đặng Ngọc Lan\nNhà xuất bản: NXB Tri Thức\nSố trang: 220\nKhổ sách: 16 x 24 cm\nNgôn ngữ: Tiếng Việt\nNăm xuất bản: 2025",
+  "giaSanPham": 110000,
+  "soLuongTon": 90,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/f59e0b/ffffff?text=Ti%E1%BA%BFng%20Anh%20cho%20l%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn",
+    "https://placehold.co/600x400/d97706/ffffff?text=Ti%E1%BA%BFng%20Anh%20cho%20l%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/fbbf24/ffffff?text=Ti%E1%BA%BFng%20Anh%20cho%20l%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6a86c2107a1c3e5d90000001"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aed97109c4e2a6f13000044"
+  },
+  "tenSanPham": "Quạt sạc tích điện cầm tay",
+  "moTaSanPham": "Quạt mini cầm tay, pin sạc dùng được 8 giờ, tiện cho đi học và đi chơi.\nPin: 2000mAh, dùng đến 8 giờ\nSố mức gió: 3 mức\nCổng sạc: USB-C\nKèm theo: Dây đeo cổ, chân đế\nBảo hành: 6 tháng",
+  "giaSanPham": 190000,
+  "soLuongTon": 120,
+  "hinhAnhSanPham": [
+    "https://placehold.co/600x400/10b981/ffffff?text=Qu%E1%BA%A1t%20s%E1%BA%A1c%20t%C3%ADch%20%C4%91i%E1%BB%87n%20c%E1%BA%A7m%20tay",
+    "https://placehold.co/600x400/059669/ffffff?text=Qu%E1%BA%A1t%20s%E1%BA%A1c%20t%C3%ADch%20%C4%91i%E1%BB%87n%20c%E1%BA%A7m%20tay%20-%20M%E1%BA%B7t%20sau",
+    "https://placehold.co/600x400/34d399/ffffff?text=Qu%E1%BA%A1t%20s%E1%BA%A1c%20t%C3%ADch%20%C4%91i%E1%BB%87n%20c%E1%BA%A7m%20tay%20-%20Chi%20ti%E1%BA%BFt"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6acddc6139df426378b1f88b"
+  },
+  "gianHangId": {
+    "$oid": "6a86c2107a1c3e5d9000000c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af16fb6dd66626e0e6abf6d"
+  },
+  "tenSanPham": "Thắc lưng biến hình kamen rider ZIO",
+  "moTaSanPham": "Thương hiệu\r\nBandai\r\n\r\nSKU\r\n13448509424_VNAMZ-117275426708\r\n\r\nĐặc điểm nổi bật của thương hiệu\r\nshinkansen\r\n\r\nLoại phiên bản\r\nPhiên bản thường\r\n\r\nThành phần chất liệu\r\nkim loại,Nhựa\r\n\r\nCần pin\r\nĐúng\r\n\r\nLắp ráp\r\nĐúng\r\n\r\nLoại bảo hành\r\nKhông bảo hành",
+  "giaSanPham": 2000000,
+  "soLuongTon": 9,
+  "hinhAnhSanPham": [
+    "/uploads/1794207670336-544792.jpg",
+    "/uploads/1794207670341-327619.jpg",
+    "/uploads/1794207670347-311913.jpg"
+  ],
+  "trangThaiSanPham": "dangban",
+  "danhMucId": {
+    "$oid": "6af16bd6e109a70e188afd62"
+  },
+  "gianHangId": {
+    "$oid": "6af16806e109a70e188afb1f"
+  }
+}]
