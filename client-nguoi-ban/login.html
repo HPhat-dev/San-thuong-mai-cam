@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Đăng nhập – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body>
+<div class="auth"><section class="hero"><div class="logo"><i><svg viewBox="0 0 36 36" aria-hidden="true"><path d="M18 10c-1-5 3-8 9-7-1 5-4 8-9 8" fill="#65a30d"/><circle cx="17" cy="21" r="12" fill="#f97316"/></svg></i>Sàn Cam</div><h1>Kênh Người Bán</h1><p>Quản lý sản phẩm, xử lý đơn hàng và theo dõi kết quả kinh doanh trên một nền tảng.</p></section>
+<section class="auth-right"><form class="card-auth" id="f" novalidate><h2>Đăng nhập</h2><p class="sub">Đăng nhập để quản lý gian hàng của bạn</p>
+<div class="field"><label>Tên đăng nhập</label><input name="username" autocomplete="username" required><div class="msg" data-for="username"></div></div>
+<div class="field"><label>Mật khẩu</label><input name="password" type="password" autocomplete="current-password" required><div class="msg" data-for="password"></div></div>
+<div class="row-between"><label><input type="checkbox" name="ghiNho"> Ghi nhớ đăng nhập</label><a href="forgot.html">Quên mật khẩu?</a></div>
+<button class="btn btn-block" id="go">Đăng nhập</button><p class="foot">Chưa có tài khoản? <a href="register.html">Đăng ký</a></p><p class="foot">Bạn là khách hàng? <a id="kh" href="#">Vào Sàn Online</a></p></form></section></div>
+<script src="js/app.js"></script><script>
+$('#kh').href = KHACH_HANG_URL;
+if (Auth.token) location.href = 'dashboard.html';
+$('#f').onsubmit = async (e) => {
+  e.preventDefault(); const f = e.target; setErrors(f);
+  const err = {}; if (!f.username.value.trim()) err.username = 'Vui lòng nhập tên đăng nhập.'; if (!f.password.value) err.password = 'Vui lòng nhập mật khẩu.';
+  if (Object.keys(err).length) return setErrors(f, err);
+  $('#go').disabled = true;
+  try {
+    const d = await api('/auth/dang-nhap', { method: 'POST', noRedirect: true, body: { username: f.username.value, password: f.password.value, ghiNho: f.ghiNho.checked } });
+    Auth.save(d.token, d.user, f.ghiNho.checked); location.href = 'dashboard.html';
+  } catch (x) { setErrors(f, { password: x.message }); }
+  $('#go').disabled = false;
+};
+</script></body></html>

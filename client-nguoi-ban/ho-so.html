@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Hồ sơ – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body><div class="shell"><aside class="side" id="side"></aside><div class="main"><header class="top" id="top"></header><main class="content" id="content">
+<form class="card prof" id="f" novalidate><div class="who"><span class="av" id="bigav">?</span><div><h2 id="hn"></h2><span>Người bán</span></div></div>
+<div class="two"><div class="field"><label>Tên đăng nhập</label><input name="username" disabled></div><div class="field"><label>Họ và tên</label><input name="hoTen"><div class="msg" data-for="hoTen"></div></div>
+<div class="field"><label>Email</label><input name="email" type="email"><div class="msg" data-for="email"></div></div><div class="field"><label>Số điện thoại</label><input name="soDienThoai"><div class="msg" data-for="soDienThoai"></div></div>
+<div class="field"><label>Địa chỉ</label><input name="diaChi"></div><div class="field"><label>Tên gian hàng</label><input name="tenGianHang"><div class="msg" data-for="tenGianHang"></div></div></div>
+<div class="btns"><button class="btn" id="go">Lưu</button><button type="button" class="btn btn-light" id="cancel">Hủy</button></div></form>
+</main></div></div><script src="js/app.js"></script><script>
+const f = $('#f'); let cur = {};
+function fill(p) { cur = p; for (const k of ['username', 'hoTen', 'email', 'soDienThoai', 'diaChi', 'tenGianHang']) f[k].value = p[k] || ''; $('#hn').textContent = p.hoTen; $('#bigav').textContent = (p.hoTen || '?')[0].toUpperCase(); }
+if (Layout.init('hoso', 'Hồ sơ')) api('/ho-so').then(fill).catch(x => toast(x.message, true));
+$('#cancel').onclick = () => { setErrors(f); fill(cur); };
+f.onsubmit = async (e) => {
+  e.preventDefault(); setErrors(f); $('#go').disabled = true;
+  try {
+    const b = {}; for (const k of ['hoTen', 'email', 'soDienThoai', 'diaChi', 'tenGianHang']) b[k] = f[k].value;
+    const r = await api('/ho-so', { method: 'PUT', body: b }); toast(r.message);
+    fill({ ...cur, ...b }); Auth.setUser({ ...Auth.user, hoTen: b.hoTen }); Layout.setName(b.hoTen);
+  } catch (x) { setErrors(f, x.errors); if (!Object.keys(x.errors).length) toast(x.message, true); }
+  $('#go').disabled = false;
+};
+</script>
+</body></html>

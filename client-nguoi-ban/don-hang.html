@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Xử lý đơn hàng – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body><div class="shell"><aside class="side" id="side"></aside><div class="main"><header class="top" id="top"></header><main class="content" id="content">
+<div class="ord"><div class="card tbl"><table><thead><tr><th>Mã đơn</th><th>Khách hàng</th><th>Ngày đặt</th><th>Tổng tiền</th><th>Trạng thái</th></tr></thead><tbody id="rows"></tbody></table></div><div class="card detail" id="detail"></div></div>
+</main></div></div><script src="js/app.js"></script><script>
+let list = [], sel = null;
+function draw() {
+  $('#rows').innerHTML = list.map(o => `<tr class="pick ${o.id === sel ? 'sel' : ''}" data-id="${o.id}"><td><b>${esc(o.maDon)}</b></td><td>${esc(o.khachHang)}</td><td>${fmtDate(o.ngayDat)}</td><td><b>${money(o.tongTien)}</b></td><td>${badge(o.trangThai)}</td></tr>`).join('') || '<tr><td colspan="5" class="empty">Chưa có đơn hàng.</td></tr>';
+  const o = list.find(x => x.id === sel); const d = $('#detail');
+  if (!o) { d.innerHTML = '<div class="empty">Chọn một đơn hàng để xem chi tiết.</div>'; return; }
+  d.innerHTML = `<div class="top2"><h3>Đơn hàng ${esc(o.maDon)}</h3>${badge(o.trangThai)}</div>
+  <p>Khách hàng: <b>${esc(o.khachHang)}</b></p><p>SĐT: ${esc(o.sdt)}</p><p>Địa chỉ: ${esc(o.diaChi)}</p>
+  <div class="lines">${o.items.map(i => `<div class="line">${tile(i.ten)}<div class="nm">${esc(i.ten)}<small>Số lượng: ${i.soLuong}</small></div><b>${money(i.gia * i.soLuong)}</b></div>`).join('')}</div>
+  <div class="total"><span>Tổng cộng</span><span>${money(o.tongTien)}</span></div>
+  ${o.tiepTheo.length ? `<div class="field"><label>Cập nhật trạng thái đơn</label><select id="ns">${o.tiepTheo.map(k => `<option value="${k}">${STATUS[k][0]}</option>`).join('')}</select></div><button class="btn btn-block" id="ok">Xác nhận xử lý đơn</button>` : '<p>Đơn hàng đã kết thúc, không thể đổi trạng thái.</p>'}`;
+  const ok = $('#ok'); if (ok) ok.onclick = async () => {
+    ok.disabled = true;
+    try { const r = await api(`/don-hang/${o.id}/trang-thai`, { method: 'PATCH', body: { trangThai: $('#ns').value } }); toast(r.message); await load(); }
+    catch (x) { toast(x.message, true); ok.disabled = false; }
+  };
+}
+async function load() { list = await api('/don-hang'); if (!list.find(x => x.id === sel)) sel = list[0] && list[0].id; draw(); }
+if (Layout.init('donhang', 'Xử lý đơn hàng')) {
+  load().catch(x => toast(x.message, true));
+  $('#rows').onclick = (e) => { const r = e.target.closest('tr.pick'); if (r) { sel = r.dataset.id; draw(); } };
+}
+</script>
+</body></html>

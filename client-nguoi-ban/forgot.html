@@ -1,0 +1,44 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Quên mật khẩu – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body>
+<div class="forgot"><div class="head"><div><div class="logo"><i><svg viewBox="0 0 36 36" aria-hidden="true"><path d="M18 10c-1-5 3-8 9-7-1 5-4 8-9 8" fill="#65a30d"/><circle cx="17" cy="21" r="12" fill="#f97316"/></svg></i>Sàn Cam – Kênh Người Bán</div><h1>Quên mật khẩu</h1><p>Đặt lại mật khẩu qua 3 bước xác minh</p></div><a class="btn btn-outline" href="login.html">Quay lại đăng nhập</a></div>
+<div class="steps">
+<form class="step on" id="s1" novalidate><div class="t"><span class="n">1</span><div><b>Nhập tài khoản / email</b><small>Hệ thống kiểm tra tài khoản</small></div></div>
+<div class="field"><label>Tên tài khoản hoặc email</label><input name="taiKhoan"><div class="msg" data-for="taiKhoan"></div></div><button class="btn btn-block">Gửi mã xác nhận</button></form>
+<form class="step off" id="s2" novalidate><div class="t"><span class="n">2</span><div><b>Nhập mã xác nhận</b><small>Hệ thống gửi mã đến email</small></div></div>
+<label>Mã xác nhận (6 chữ số)</label><div class="codes"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"></div><div class="msg" data-for="ma"></div><div class="hint" id="sent">&nbsp;</div><button class="btn btn-block">Xác nhận mã</button></form>
+<form class="step off" id="s3" novalidate><div class="t"><span class="n">3</span><div><b>Tạo mật khẩu mới</b><small>Hệ thống cập nhật mật khẩu</small></div></div>
+<div class="field"><label>Mật khẩu mới</label><input name="matKhauMoi" type="password"><div class="msg" data-for="matKhauMoi"></div></div>
+<div class="field"><label>Nhập lại mật khẩu mới</label><input name="nhapLai" type="password"><div class="msg" data-for="nhapLai"></div></div><button class="btn btn-block">Cập nhật mật khẩu</button></form>
+</div></div>
+<script src="js/app.js"></script><script>
+let taiKhoan = '', resetToken = '';
+const go = (from, to) => { from.classList.remove('on'); from.classList.add('off'); to.classList.remove('off'); to.classList.add('on'); };
+const boxes = $$('.codes input');
+boxes.forEach((b, i) => {
+  b.oninput = () => { b.value = b.value.replace(/\D/g, ''); if (b.value && boxes[i + 1]) boxes[i + 1].focus(); };
+  b.onkeydown = (e) => { if (e.key === 'Backspace' && !b.value && boxes[i - 1]) boxes[i - 1].focus(); };
+  b.onpaste = (e) => { const t = (e.clipboardData.getData('text') || '').replace(/\D/g, '').slice(0, 6); if (t) { e.preventDefault(); boxes.forEach((x, k) => x.value = t[k] || ''); } };
+});
+$('#s1').onsubmit = async (e) => {
+  e.preventDefault(); const f = e.target; setErrors(f);
+  try {
+    const d = await api('/auth/quen-mat-khau/gui-ma', { method: 'POST', noRedirect: true, body: { taiKhoan: f.taiKhoan.value } });
+    taiKhoan = f.taiKhoan.value; $('#sent').textContent = 'Mã đã được gửi đến ' + d.email;
+    if (d.maDev) toast('[Chế độ thử nghiệm] Mã xác nhận: ' + d.maDev);
+    go(f, $('#s2')); boxes[0].focus();
+  } catch (x) { setErrors(f, Object.keys(x.errors).length ? x.errors : { taiKhoan: x.message }); }
+};
+$('#s2').onsubmit = async (e) => {
+  e.preventDefault(); const f = e.target; setErrors(f);
+  try {
+    const d = await api('/auth/quen-mat-khau/xac-nhan-ma', { method: 'POST', noRedirect: true, body: { taiKhoan, ma: boxes.map(b => b.value).join('') } });
+    resetToken = d.resetToken; go(f, $('#s3'));
+  } catch (x) { $('.msg[data-for=ma]').textContent = x.message; }
+};
+$('#s3').onsubmit = async (e) => {
+  e.preventDefault(); const f = e.target; setErrors(f);
+  try {
+    await api('/auth/quen-mat-khau/dat-lai', { method: 'POST', noRedirect: true, body: { resetToken, matKhauMoi: f.matKhauMoi.value, nhapLai: f.nhapLai.value } });
+    toast('Đổi mật khẩu thành công! Đang chuyển về đăng nhập...'); setTimeout(() => location.href = 'login.html', 1300);
+  } catch (x) { if (Object.keys(x.errors).length) setErrors(f, x.errors); else toast(x.message, true); }
+};
+</script></body></html>

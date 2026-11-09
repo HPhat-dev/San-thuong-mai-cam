@@ -1,0 +1,113 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Thêm / Sửa sản phẩm – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body><div class="shell"><aside class="side" id="side"></aside><div class="main"><header class="top" id="top"></header><main class="content" id="content">
+<form class="pform" id="f" novalidate>
+<div class="card"><div class="ttl"><h3>Thông tin sản phẩm</h3><div><span class="tag new" id="tNew">Thêm mới</span><span class="tag edit" id="tEdit">Chỉnh sửa</span></div></div>
+<div class="field"><label>Tên sản phẩm</label><input name="tenSanPham"></div>
+<div class="three"><div class="field"><label>Danh mục</label><select name="danhMucId"></select></div><div class="field"><label>Giá bán (đồng)</label><input name="giaSanPham" type="number" min="0"></div><div class="field"><label>Số lượng tồn kho</label><input name="soLuongTon" type="number" min="0"></div></div>
+<div class="field"><label>Mô tả sản phẩm</label><textarea name="moTaSanPham" rows="7"></textarea></div>
+<div class="ferr" id="ferr"></div><div class="btns"><button class="btn" id="go">Lưu</button><a class="btn btn-light" href="san-pham.html">Hủy</a></div></div>
+<div class="card"><h3>Hình ảnh sản phẩm</h3><div class="image-previews" id="imagePreviews"></div><input type="file" id="file" accept="image/png,image/jpeg" multiple hidden>
+<button type="button" class="btn btn-outline btn-block" id="up">Tải ảnh lên</button><p class="hint">Có thể chọn tối đa 10 ảnh mỗi lần. Định dạng JPG, PNG (tối đa 2MB/ảnh).</p>
+<div class="field"><label>Trạng thái</label><select name="trangThaiSanPham"><option value="dangban">Đang bán</option><option value="ngungban">Ngừng bán</option></select></div></div>
+</form></main></div></div><script src="js/app.js"></script><script>
+const id = new URLSearchParams(location.search).get('id'); const f = $('#f');
+const selectedImages = [];
+let existingImages = [];
+const removedImages = [];
+let previewUrls = [];
+
+function renderImages() {
+  previewUrls.forEach((url) => URL.revokeObjectURL(url));
+  previewUrls = [];
+  const previews = $('#imagePreviews');
+  previews.replaceChildren();
+  const images = [
+    ...existingImages.map((src) => ({ src: imgUrl(src), existing: true, value: src })),
+    ...selectedImages.map((file) => {
+      const src = URL.createObjectURL(file);
+      previewUrls.push(src);
+      return { src, file };
+    })
+  ];
+  if (!images.length) {
+    const empty = document.createElement('div');
+    empty.className = 'preview';
+    empty.textContent = 'Ảnh sản phẩm';
+    previews.append(empty);
+    return;
+  }
+  images.forEach((image) => {
+    const item = document.createElement('div');
+    item.className = 'image-preview';
+    const img = document.createElement('img');
+    img.src = image.src;
+    img.alt = 'Ảnh sản phẩm';
+    item.append(img);
+    const remove = document.createElement('button');
+    remove.type = 'button';
+    remove.className = 'image-remove';
+    remove.textContent = '×';
+    remove.setAttribute('aria-label', image.existing ? 'Xóa ảnh đã tải lên' : 'Bỏ ảnh đã chọn');
+    remove.onclick = () => {
+      if (image.existing) {
+        existingImages.splice(existingImages.indexOf(image.value), 1);
+        removedImages.push(image.value);
+      } else {
+        selectedImages.splice(selectedImages.indexOf(image.file), 1);
+      }
+      renderImages();
+    };
+    item.append(remove);
+    previews.append(item);
+  });
+}
+
+$('#tNew').classList.toggle('act', !id); $('#tEdit').classList.toggle('act', !!id);
+if (Layout.init('sanpham', 'Thêm / Sửa sản phẩm')) (async () => {
+  try {
+    const dm = await api('/danh-muc');
+    f.danhMucId.innerHTML = '<option value="">-- Chọn danh mục --</option>' + dm.map(d => `<option value="${d.id}">${esc(d.ten)}</option>`).join('');
+    if (id) {
+      const p = await api('/san-pham/' + id);
+      f.tenSanPham.value = p.ten; f.danhMucId.value = p.danhMuc.id; f.giaSanPham.value = p.gia; f.soLuongTon.value = p.ton; f.moTaSanPham.value = p.moTa || ''; f.trangThaiSanPham.value = p.trangThai;
+      existingImages = p.hinhAnhs || (p.hinhAnh ? [p.hinhAnh] : []);
+    }
+    renderImages();
+  } catch (x) { toast(x.message, true); }
+})();
+$('#up').onclick = () => $('#file').click();
+$('#file').onchange = () => {
+  const files = [...$('#file').files]; $('#file').value = '';
+  if (!files.length) return;
+  if (selectedImages.length + files.length > 10) return toast('Mỗi lần chỉ được chọn tối đa 10 ảnh.', true);
+  if (files.some((file) => !/^image\/(jpeg|png)$/.test(file.type) || file.size > 2097152)) {
+    return toast('Chỉ chấp nhận ảnh JPG, PNG tối đa 2MB/ảnh.', true);
+  }
+  selectedImages.push(...files);
+  renderImages();
+};
+f.onsubmit = async (e) => {
+  e.preventDefault(); setErrors(f); $('#ferr').textContent = ''; $('#go').disabled = true;
+  const errors = {};
+  if (!f.tenSanPham.value.trim()) errors.tenSanPham = 'Tên sản phẩm không được để trống.';
+  if (!f.danhMucId.value) errors.danhMucId = 'Vui lòng chọn danh mục.';
+  if (!f.giaSanPham.value || !(Number(f.giaSanPham.value) > 0)) errors.giaSanPham = 'Giá bán phải là số lớn hơn 0.';
+  const stock = Number(f.soLuongTon.value);
+  if (f.soLuongTon.value === '' || !Number.isInteger(stock) || stock < 0) errors.soLuongTon = 'Số lượng tồn kho phải là số nguyên không âm.';
+  if (Object.keys(errors).length) {
+    setErrors(f, errors);
+    $('#ferr').textContent = Object.values(errors)[0];
+    f.querySelector('.err').focus();
+    $('#go').disabled = false;
+    return;
+  }
+  try {
+    const form = new FormData(f);
+    if (id) form.append('hinhAnhXoa', JSON.stringify(removedImages));
+    selectedImages.forEach((file) => form.append('hinhAnh', file));
+    const r = await api(id ? '/san-pham/' + id : '/san-pham', { method: id ? 'PUT' : 'POST', form });
+    toast(r.message); setTimeout(() => location.href = 'san-pham.html', 700); return;
+  } catch (x) { setErrors(f, x.errors); $('#ferr').textContent = x.message; }
+  $('#go').disabled = false;
+};
+</script>
+</body></html>

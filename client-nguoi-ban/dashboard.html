@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Thống kê – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body><div class="shell"><aside class="side" id="side"></aside><div class="main"><header class="top" id="top"></header><main class="content" id="content">
+<div class="stats" id="stats"></div>
+<div class="cols"><div class="card"><h3>Doanh thu 6 tháng gần nhất (triệu đồng)</h3><div class="chart" id="chart"></div><div class="axis" id="axis"></div></div>
+<div class="card"><h3>Đơn hàng gần đây</h3><div class="tbl"><table><thead><tr><th>Mã đơn</th><th>Khách hàng</th><th>Tổng tiền</th><th>Trạng thái</th></tr></thead><tbody id="rows"></tbody></table></div></div></div>
+</main></div></div><script src="js/app.js"></script><script>
+if (Layout.init('dashboard', 'Thống kê')) (async () => {
+  try {
+    const d = await api('/thong-ke');
+    const st = [['Số lượng sản phẩm', d.soSanPham, '#0f9488'], ['Số lượng đơn hàng', d.soDonHang, '#2563eb'], ['Doanh thu', money(d.doanhThu), '#f59e0b'], ['Số đơn đã xử lý', d.soDonDaXuLy, '#16a34a']];
+    $('#stats').innerHTML = st.map(s => `<div class="card stat"><small>${s[0]}</small><b style="color:${s[2]}">${s[1]}</b></div>`).join('');
+    const max = Math.max(1, ...d.doanhThu6Thang.map(t => t.tong));
+    $('#chart').innerHTML = d.doanhThu6Thang.map(t => `<div class="bar"><span>${Math.round(t.tong / 1e6)}tr</span><i style="height:${Math.max(6, Math.round(t.tong / max * 200))}px"></i></div>`).join('');
+    $('#axis').innerHTML = d.doanhThu6Thang.map(t => `<span>T${t.thang}</span>`).join('');
+    $('#rows').innerHTML = d.donGanDay.map(o => `<tr><td><b>${esc(o.maDon)}</b></td><td>${esc(o.khachHang)}</td><td>${money(o.tongTien)}</td><td>${badge(o.trangThai)}</td></tr>`).join('') || '<tr><td colspan="4" class="empty">Chưa có đơn hàng.</td></tr>';
+  } catch (x) { toast(x.message, true); }
+})();
+</script>
+</body></html>

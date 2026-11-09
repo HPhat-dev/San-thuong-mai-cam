@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Đăng ký người bán – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body>
+<div class="auth"><section class="hero"><div class="logo"><i><svg viewBox="0 0 36 36" aria-hidden="true"><path d="M18 10c-1-5 3-8 9-7-1 5-4 8-9 8" fill="#65a30d"/><circle cx="17" cy="21" r="12" fill="#f97316"/></svg></i>Sàn Cam</div><h1>Bắt đầu bán hàng cùng Sàn Online</h1><p>Tạo tài khoản người bán, đăng tải sản phẩm và tiếp cận nhiều khách hàng hơn.</p></section>
+<section class="auth-right"><form class="card-auth" id="f" novalidate><h2>Đăng ký người bán</h2><p class="sub">Tạo tài khoản để bắt đầu bán hàng</p>
+<div class="field"><label>Tên đăng nhập</label><input name="username" autocomplete="username"><div class="msg" data-for="username"></div></div>
+<div class="field"><label>Email</label><input name="email" type="email"><div class="msg" data-for="email"></div></div>
+<div class="field"><label>Mật khẩu</label><input name="password" type="password" autocomplete="new-password"><div class="msg" data-for="password"></div></div>
+<div class="field"><label>Xác nhận mật khẩu</label><input name="xacNhanMatKhau" type="password" autocomplete="new-password"><div class="msg" data-for="xacNhanMatKhau"></div></div>
+<button class="btn btn-block" id="go">Đăng ký</button><p class="foot">Đã có tài khoản? <a href="login.html">Đăng nhập</a></p></form></section></div>
+<script src="js/app.js"></script><script>
+$('#f').onsubmit = async (e) => {
+  e.preventDefault(); const f = e.target; setErrors(f); $('#go').disabled = true;
+  try {
+    await api('/auth/dang-ky', { method: 'POST', noRedirect: true, body: { username: f.username.value, email: f.email.value, password: f.password.value, xacNhanMatKhau: f.xacNhanMatKhau.value } });
+    toast('Đăng ký thành công! Đang chuyển đến trang đăng nhập...'); setTimeout(() => location.href = 'login.html', 1300); return;
+  } catch (x) { if (Object.keys(x.errors).length) setErrors(f, x.errors); else toast(x.message, true); }
+  $('#go').disabled = false;
+};
+</script></body></html>

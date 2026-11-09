@@ -1,0 +1,21 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Quản lý sản phẩm – Sàn Online</title><link rel="stylesheet" href="css/style.css"></head><body><div class="shell"><aside class="side" id="side"></aside><div class="main"><header class="top" id="top"></header><main class="content" id="content">
+<div class="tools"><input id="q" placeholder="Tìm sản phẩm trong gian hàng..."><a class="btn" href="san-pham-form.html">+ Thêm sản phẩm</a></div>
+<div class="card tbl"><table><thead><tr><th>Sản phẩm</th><th>Danh mục</th><th>Giá bán</th><th>Tồn kho</th><th>Thao tác</th></tr></thead><tbody id="rows"></tbody></table></div>
+</main></div></div><script src="js/app.js"></script><script>
+let list = [];
+function draw() {
+  $('#rows').innerHTML = list.map(p => `<tr><td><div class="pname">${tile(p.ten, p.hinhAnh)}${esc(p.ten)}</div></td><td>${esc(p.danhMuc.ten)}</td><td>${money(p.gia)}</td><td>${p.ton}</td>
+  <td><a class="btn btn-sm btn-outline" href="san-pham-form.html?id=${p.id}">Sửa</a> <button class="btn btn-sm del" data-id="${p.id}">Xóa</button></td></tr>`).join('') || '<tr><td colspan="5" class="empty">Không tìm thấy sản phẩm nào.</td></tr>';
+}
+async function load() { try { list = await api('/san-pham?q=' + encodeURIComponent($('#q').value)); draw(); } catch (x) { toast(x.message, true); } }
+if (Layout.init('sanpham', 'Quản lý sản phẩm')) {
+  load(); let t; $('#q').oninput = () => { clearTimeout(t); t = setTimeout(load, 300); };
+  $('#rows').onclick = async (e) => {
+    const b = e.target.closest('.del'); if (!b) return;
+    const p = list.find(x => x.id === b.dataset.id);
+    if (!await confirmModal({ icon: '!', title: 'Xác nhận xóa sản phẩm', html: `Bạn có chắc muốn xóa sản phẩm <b>${esc(p.ten)}</b> khỏi danh sách? Thao tác này không thể hoàn tác.`, ok: 'Xác nhận xóa', danger: true })) return;
+    try { await api('/san-pham/' + p.id, { method: 'DELETE' }); toast('Đã xóa sản phẩm.'); load(); } catch (x) { toast(x.message, true); }
+  };
+}
+</script>
+</body></html>
